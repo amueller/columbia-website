@@ -8,3 +8,17 @@ main:
   #  url: /projects/
   - title: "Personal Website"
     url: https://amueller.github.io
+
+comsw4995s18:
+  - title: "COMS W4995"
+    children:
+      - title: "Overview"
+        url: /comsw4995s18/
+      - title: "Schedule"
+        url: /comsw4995s18/schedule/
+      - title: "Syllabus"
+        url: /comsw4995s18/syllabus/
+      - title: "Piazza"
+        url: https://piazza.com/class/jaofyhdz4v970j
+      - title: "Courseworks"
+        url: https://courseworks2.columbia.edu/courses/sis_course_id:COMSW4995_003_2018_1

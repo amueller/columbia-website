@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en"
-title                    : "Andreas Mueller - Lecturer in Data Science"
+title                    : "Andreas C. Müller - Lecturer in Data Science"
 title_separator          : "-"
-name                     : "Andreas Mueller"
+name                     : "Andreas C. Müller"
 description              : "Website of Lecturer in Discipline Andreas Mueller - Columbia University"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andreas Mueller"
+  name             : "Andreas C. Müller"
   avatar           :  "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Lecturer in Discipline</br>Department of Computer Science</br>Data Science Institute"
   location         : "Mudd 410"
@@ -117,6 +117,7 @@ author:
 include:
   - .htaccess
   - _pages
+  - _comsw4995s18
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -257,3 +258,10 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _comsw4995s18
+  - scope:
+      path: ""
+      type: comsw4995s18
+    values:
+      sidevar:
+        nav: "comsw4995s18"
