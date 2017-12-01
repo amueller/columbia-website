@@ -12,7 +12,7 @@ locale                   : "en"
 title                    : "Andreas Mueller - Lecturer in Data Science"
 title_separator          : "-"
 name                     : "Andreas Mueller"
-description              : "An amazing website."
+description              : "Website of Lecturer in Discipline Andreas Mueller - Columbia University"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ analytics:
 author:
   name             : "Andreas Mueller"
   avatar           :  "/assets/images/bio-photo.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Lecturer in Data Science"
+  bio              : "Lecturer in Discipline</br>Department of Computer Science</br>Data Science Institute"
   location         : "Mudd 410"
   email            : "andreas.mueller@columbia.edu"
   uri              :
