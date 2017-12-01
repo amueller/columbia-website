@@ -1,1 +1,5 @@
-<h3>Courses</h3>
+---
+permalink: /publications/
+---
+
+<h3>Publications</h3>

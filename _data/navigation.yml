@@ -2,9 +2,9 @@
 main:
   - title: "Courses"
     url: /courses/
-  - title: "Publications"
-    url: /publications/
-  - title: "Projects"
-    url: /projects/
+  #- title: "Publications"
+    #url: /publications/
+  #- title: "Projects"
+  #  url: /projects/
   - title: "Personal Website"
     url: https://amueller.github.io
