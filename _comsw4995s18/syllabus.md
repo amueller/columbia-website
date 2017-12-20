@@ -16,7 +16,7 @@ to productionizing machine learning models.
 
 ### Prerequisites
 Familiarity with Python programming and basic use of NumPy, pandas and matplotlib.
-A good reference is the [Python Data Science Handbook][https://github.com/jakevdp/PythonDataScienceHandbook]
+A good reference is the [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
 by Jake VanderPlas. It's online for free and available as a notebook at the link above.
 I highly recommend going through it before starting the class.
 
