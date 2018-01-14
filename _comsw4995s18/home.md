@@ -6,10 +6,10 @@ sidebar:
 ---
 
 <h1>COMS W4995 Applied Machine Learning Spring 2018</h1>
-- Time: Monday/Wednesday
-- Venue: TBD
+- Time: Monday/Wednesday 1:10pm - 2:25pm
+- Venue: 417 International Affairs Bldg
 - Instuctor: Andreas Mueller
-- Office hours: TBD
+- Office hours: Thursdays 11am-12pm Mudd 410
 
 <h2>Announcements</h2>
 <h3>Enrollment</h3>
