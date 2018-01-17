@@ -23,7 +23,7 @@ sidebar:
 	<tr>
 		<td>1</td>
 		<td align="right" sdval="42753" sdnum="1033;0;MM/DD/YY">01/17/18</td>
-		<td>Introduction; What can machine learning do for you?</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-01-011718-introduction/index.html#1">Introduction; What can machine learning do for you?</a></td>
 		<td>IMLP Ch 1, APM Ch 1-2</td>
 		<td><br></td>
 	</tr>
