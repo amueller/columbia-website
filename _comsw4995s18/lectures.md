@@ -32,7 +32,7 @@ sidebar:
 		<td align="right" sdval="42758" sdnum="1033;0;MM/DD/YY">01/22/18</td>
 		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-02-012218-python-git-testing/">Software infrastructure</a></td>
 		<td>IMLP Ch 1, <a href="https://www.youtube.com/watch?v=1ffBJ4sVUb4">git for ages 4 and up</a></td>
-		<td>HW 1 posted</td>
+		<td><a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/HomeworkI.pdf"HW 1 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
