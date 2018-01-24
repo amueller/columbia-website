@@ -1,4 +1,5 @@
 ---
+title: "COMS W4995 Applied Machine Learning Spring 2018"
 permalink: /comsw4995s18/
 author_profile: false
 sidebar:

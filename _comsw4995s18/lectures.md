@@ -1,5 +1,5 @@
 ---
-title: Schedule
+title: "COMS W4995 Applied Machine Learning Spring 2018 - Schedule"
 layout: schedule
 permalink: /comsw4995s18/schedule/
 author_profile: false
@@ -37,8 +37,8 @@ sidebar:
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42760" sdnum="1033;0;MM/DD/YY">01/24/18</td>
-		<td>matplotlib and visualization</td>
-		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-03-012418-matplotlib/#1">Testing, matplotlib and visualization</a></td>
+		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2 gives a good intro to visualization principles)</td>
 		<td><br></td>
 	</tr>
 	<tr>

@@ -1,4 +1,5 @@
 ---
+title: "COMS W4995 Applied Machine Learning Spring 2018 - Syllabus"
 permalink: /comsw4995s18/syllabus/
 author_profile: false
 sidebar:
