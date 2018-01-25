@@ -7,6 +7,8 @@ sidebar:
   nav: "comsw4995s18"
 ---
 
+Press P on slides for presenter notes.
+
 <div class="schedule">
 <table cellspacing="0" border="0">
 	<colgroup span="2"></colgroup>
@@ -37,7 +39,7 @@ sidebar:
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42760" sdnum="1033;0;MM/DD/YY">01/24/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-03-012418-matplotlib/#1">Testing, matplotlib and visualization</a> &nbsp;<a href="https://www.dropbox.com/s/fdtmvbrzslemp6g/03-matplotlib-testing.mp3?dl=0">(audio)</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-03-012418-matplotlib/#1">Testing, matplotlib and visualization</a> &nbsp;<a href="https://www.dropbox.com/s/fdtmvbrzslemp6g/03-matplotlib-testing.mp3?dl=1"><i class="fa fa-volume-up" aria-hidden="true"></i></a></td>
 		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2 gives a good intro to visualization principles)</td>
 		<td><br></td>
 	</tr>
