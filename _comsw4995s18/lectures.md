@@ -46,7 +46,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>3</td>
 		<td align="right" sdval="42765" sdnum="1033;0;MM/DD/YY">01/29/18</td>
-		<td>Introduction to supervised learning, basic model selection</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-04-012918-supervised-learning/#1">Introduction to supervised learning, basic model selection</a></td>
 		<td>IMLP p25-44, APM Ch 4-4.3, IMLP p251-262, APM Ch 4.4-4.8</td>
 		<td>HW 1 due</td>
 	</tr>
