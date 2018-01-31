@@ -55,7 +55,7 @@ Press P on slides for presenter notes.
 		<td align="right" sdval="42767" sdnum="1033;0;MM/DD/YY">01/31/18</td>
 		<td>Linear models for Regression</td>
 		<td>IMLP p45-68, APM Ch 6</td>
-		<td>HW 2 posted</td>
+		<td><a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/Homework2.pdf">HW 2 posted</a></td>
 	</tr>
 	<tr>
 		<td>4</td>
