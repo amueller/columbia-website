@@ -53,7 +53,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42767" sdnum="1033;0;MM/DD/YY">01/31/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-05-013118-linear-models-regression/#1">Linear models for Regression</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-05-013118-linear-models-regression/#1">Linear models for Regression</a>&nbsp;<a href="https://www.dropbox.com/s/kd8u9lmz26jzpus/05-linear-models-for-regression.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p45-68, APM Ch 6</td>
 		<td><a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/Homework2.pdf">HW 2 posted</a></td>
 	</tr>
