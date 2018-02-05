@@ -60,7 +60,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>4</td>
 		<td align="right" sdval="42772" sdnum="1033;0;MM/DD/YY">02/05/18</td>
-		<td>Linear models for Classification</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-06-020518-linear-models-classification/#1">Linear models for Classification</a></td>
 		<td>IMLP p45-68,  Ch 12.1-12.2, 12.5</td>
 		<td></td>
 	</tr>
