@@ -6,7 +6,6 @@ sidebar:
   nav: "comsw4995s18"
 ---
 
-<h1>COMS W4995 Applied Machine Learning Spring 2018</h1>
 - **Time**: Monday/Wednesday 1:10pm - 2:25pm
 - **Venue**: 417 International Affairs Bldg
 - **Instuctor**: Andreas Mueller
