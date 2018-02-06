@@ -67,7 +67,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42774" sdnum="1033;0;MM/DD/YY">02/07/18</td>
-		<td>Preprocessing and feature engineering</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-07-020718-preprocessing/#1">Preprocessing and feature engineering</a></td>
 		<td>IMLP p132-140, IMLP p211-220, APM Ch 3</td>
 		<td>HW 2 due</td>
 	</tr>
