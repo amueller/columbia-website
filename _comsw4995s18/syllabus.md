@@ -31,7 +31,7 @@ enforced by the pep8 (or flake8) linter. All functions must contain numpy-style
 docstrings.  Please note that there is only one week to work on homework 4.
 
 ### Grading / course grade
-5 homework assignments (60%), midterm exam (20%), final in-class exam (20%).
+6 homework assignments (60%), midterm exam (20%), final in-class exam (20%).
 All homework assignments are programming assignments and need to be submitted
 via Github (as will be explained in the class). The midterm will test material
 from the first half of the class, while the second exam will test material from
