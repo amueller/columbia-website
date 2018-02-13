@@ -25,58 +25,69 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>1</td>
 		<td align="right" sdval="42753" sdnum="1033;0;MM/DD/YY">01/17/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-01-011718-introduction/index.html#1">Introduction; What can machine learning do for you?</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-01-011718-introduction/" onclick="trackOutboundLink('https://amueller.github.io/COMS4995-s18/slides/aml-01-011718-introduction/')">
+                Introduction; What can machine learning do for you?</a></td>
 		<td>IMLP Ch 1, APM Ch 1-2</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>2</td>
 		<td align="right" sdval="42758" sdnum="1033;0;MM/DD/YY">01/22/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-02-012218-python-git-testing/">Software infrastructure</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-02-012218-python-git-testing/" onclick="trackOutboundLink('https://amueller.github.io/COMS4995-s18/slides/aml-02-012218-python-git-testing/')">
+                Software infrastructure</a></td>
 		<td>IMLP Ch 1, <a href="https://www.youtube.com/watch?v=1ffBJ4sVUb4">git for ages 4 and up</a></td>
 		<td><a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/HomeworkI.pdf">HW 1 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42760" sdnum="1033;0;MM/DD/YY">01/24/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-03-012418-matplotlib/#1">Testing, matplotlib and visualization</a> &nbsp;<a href="https://www.dropbox.com/s/fdtmvbrzslemp6g/03-matplotlib-testing.mp3?dl=1"><i class="fa fa-volume-up" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-03-012418-matplotlib/#1" onclick="trackOutboundLink('https://amueller.github.io/COMS4995-s18/slides/aml-03-012418-matplotlib/')">
+                Testing, matplotlib and visualization</a> &nbsp;
+            <a href="https://www.dropbox.com/s/fdtmvbrzslemp6g/03-matplotlib-testing.mp3?dl=1"><i class="fa fa-volume-up" aria-hidden="true"></i></a>
+        </td>
 		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2 gives a good intro to visualization principles)</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td align="right" sdval="42765" sdnum="1033;0;MM/DD/YY">01/29/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-04-012918-supervised-learning/#1">Introduction to supervised learning, basic model selection</a>&nbsp;<a href="https://www.dropbox.com/s/6b5fscf84l91t2t/04-intro-to-supervised-learning.flv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-04-012918-supervised-learning/#1" onclick="trackOutboundLink('https://amueller.github.io/COMS4995-s18/slides/aml-04-012918-supervised-learning/')">
+                Introduction to supervised learning, basic model selection</a>&nbsp;
+            <a href="https://www.dropbox.com/s/6b5fscf84l91t2t/04-intro-to-supervised-learning.flv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p25-44, APM Ch 4-4.3, IMLP p251-262, APM Ch 4.4-4.8</td>
 		<td>HW 1 due</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42767" sdnum="1033;0;MM/DD/YY">01/31/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-05-013118-linear-models-regression/#1">Linear models for Regression</a>&nbsp;<a href="https://www.dropbox.com/s/kd8u9lmz26jzpus/05-linear-models-for-regression.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-05-013118-linear-models-regression/#1">Linear models for Regression</a>&nbsp;
+            <a href="https://www.dropbox.com/s/kd8u9lmz26jzpus/05-linear-models-for-regression.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p45-68, APM Ch 6</td>
 		<td><a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/Homework2.pdf">HW 2 posted</a></td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td align="right" sdval="42772" sdnum="1033;0;MM/DD/YY">02/05/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-06-020518-linear-models-classification/#1">Linear models for Classification</a>&nbsp;<a href="https://www.dropbox.com/s/d9th9jcqprcvav1/06-linear-models-for-classification.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-06-020518-linear-models-classification/#1">Linear models for Classification</a>&nbsp;
+            <a href="https://www.dropbox.com/s/d9th9jcqprcvav1/06-linear-models-for-classification.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p45-68,  Ch 12.1-12.2, 12.5</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42774" sdnum="1033;0;MM/DD/YY">02/07/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-07-020718-preprocessing/#1">Preprocessing and feature engineering</a>&nbsp;<a href="https://www.dropbox.com/s/sfsruw0mluuza1m/07-preprocessing.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-07-020718-preprocessing/#1">Preprocessing and feature engineering</a>&nbsp;
+            <a href="https://www.dropbox.com/s/sfsruw0mluuza1m/07-preprocessing.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p132-140, IMLP p211-220, APM Ch 3</td>
 		<td>HW 2 due</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td align="right" sdval="42779" sdnum="1033;0;MM/DD/YY">02/12/18</td>
-		<td>Imputation and Feature Selection</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-08-021218-imputation-feature-selection/">Imputation and Feature Selection</a>&nbsp;
+            <a href="https://www.dropbox.com/s/9wv7e7rpz2c8l7f/08-imputation-feature-selection.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p236-241, APM Ch 19</td>
-		<td>HW 3 posted</td>
+		<td><a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/Homework3.pdf">HW 3 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
