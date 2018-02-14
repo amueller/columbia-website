@@ -92,7 +92,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42781" sdnum="1033;0;MM/DD/YY">02/14/18</td>
-		<td>Support Vector Machines</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-09-021418-support-vector-machines/#1">Support Vector Machines</a></td>
 		<td>IMLP p92-103, APM Ch 13.4</td>
 		<td></td>
 	</tr>
