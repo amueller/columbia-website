@@ -16,17 +16,17 @@ Press P on slides for presenter notes.
 	<colgroup></colgroup>
 	<colgroup></colgroup>
     <tr>
-        <th>Week</th>
+        <th>Wk</th>
         <th>Date</th>
-        <th>Topic</th>
+        <th style="width:330px">Topic</th>
         <th>Reading</th>
-        <th>Comments</th>
+        <th style="width:115px">Comments</th>
     </tr>
 	<tr>
 		<td>1</td>
 		<td align="right" sdval="42753" sdnum="1033;0;MM/DD/YY">01/17/18</td>
 		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-01-011718-introduction/" onclick="trackOutboundLink('https://amueller.github.io/COMS4995-s18/slides/aml-01-011718-introduction/')">
-                Introduction; What can machine learning do for you?</a></td>
+                Introduction</a></td>
 		<td>IMLP Ch 1, APM Ch 1-2</td>
 		<td><br></td>
 	</tr>
@@ -45,14 +45,14 @@ Press P on slides for presenter notes.
                 Testing, matplotlib and visualization</a> &nbsp;
             <a href="https://www.dropbox.com/s/fdtmvbrzslemp6g/03-matplotlib-testing.mp3?dl=1"><i class="fa fa-volume-up" aria-hidden="true"></i></a>
         </td>
-		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2 gives a good intro to visualization principles)</td>
+		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td align="right" sdval="42765" sdnum="1033;0;MM/DD/YY">01/29/18</td>
 		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-04-012918-supervised-learning/#1" onclick="trackOutboundLink('https://amueller.github.io/COMS4995-s18/slides/aml-04-012918-supervised-learning/')">
-                Introduction to supervised learning, basic model selection</a>&nbsp;
+                Introduction to supervised learning</a>&nbsp;
             <a href="https://www.dropbox.com/s/6b5fscf84l91t2t/04-intro-to-supervised-learning.flv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p25-44, APM Ch 4-4.3, IMLP p251-262, APM Ch 4.4-4.8</td>
 		<td>HW 1 due</td>
@@ -92,21 +92,24 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42781" sdnum="1033;0;MM/DD/YY">02/14/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-09-021418-support-vector-machines/#1">Support Vector Machines</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-09-021418-support-vector-machines/#1">Support Vector Machines</a>&nbsp;
+            <a href="https://www.dropbox.com/s/oqbjb9310k577cx/09-support-vector-machines.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p92-103, APM Ch 13.4</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td align="right" sdval="42786" sdnum="1033;0;MM/DD/YY">02/19/18</td>
-		<td>Decision Trees and Random Forests</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-10-021918-trees-forests/#1">Trees, Forests &amp; Ensembles</a>&nbsp;
+            <a href="https://www.dropbox.com/s/fzo7br4tkzxrp56/10-trees-forests.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p70-88, APM Ch 14.1-14.4</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42788" sdnum="1033;0;MM/DD/YY">02/21/18</td>
-		<td>Gradient Boosting, Calibration</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-11-022118-gradient-boosting-calibration">Gradient Boosting, Calibration</a>&nbsp;
+            <a href="https://www.dropbox.com/s/b15a8ai5h6qmgix/11-boosting-stacking-calibration.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p89-92, APM Ch 14.5</td>
 		<td><br></td>
 	</tr>
@@ -127,7 +130,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>8</td>
 		<td align="right" sdval="42800" sdnum="1033;0;MM/DD/YY">03/05/18</td>
-		<td>Case Studies (bring laptop)</td>
+		<td>tbd</td>
 		<td><br></td>
 		<td><br></td>
 	</tr>
@@ -155,7 +158,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>10</td>
 		<td align="right" sdval="42814" sdnum="1033;0;MM/DD/YY">03/19/18</td>
-		<td>PCA, Discriminant Analysis, Manifold Learning</td>
+		<td>Dimensionality Reduction</td>
 		<td>IMLP p140-156, p163-168, APM p35-40</td>
         <td></td>
 	</tr>
@@ -212,7 +215,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>14</td>
 		<td align="right" sdval="42842" sdnum="1033;0;MM/DD/YY">04/16/18</td>
-		<td>Convolutional neural networks for image classification</td>
+		<td>Convolutional neural networks</td>
 		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a></td>
 		<td>HW 5 posted, HW 6 posted</td>
 	</tr>
@@ -233,7 +236,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42851" sdnum="1033;0;MM/DD/YY">04/25/18</td>
-		<td>Machine Learning in Production, HW 4</td>
+		<td>Machine Learning in Production</td>
 		<td>IMLP Ch 8, HICC</td>
 		<td>HW 6 due</td>
 	</tr>
