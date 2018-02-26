@@ -116,7 +116,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>7</td>
 		<td align="right" sdval="42793" sdnum="1033;0;MM/DD/YY">02/26/18</td>
-		<td>Model Evaluation</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-12-022618-model-evaluation/#1">Model Evaluation</a></td>
 		<td>IMLP p275-302, APM Ch 16</td>
 		<td><br></td>
 	</tr>
