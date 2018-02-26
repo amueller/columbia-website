@@ -125,14 +125,14 @@ Press P on slides for presenter notes.
 		<td align="right" sdval="42795" sdnum="1033;0;MM/DD/YY">02/28/18</td>
         <td>Learning with Imbalanced Data<br></td>
         <td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
-		<td>HW 3 due</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td align="right" sdval="42800" sdnum="1033;0;MM/DD/YY">03/05/18</td>
 		<td>tbd</td>
 		<td><br></td>
-		<td><br></td>
+		<td>HW 3 due<br></td>
 	</tr>
 	<tr>
 		<td><br></td>
