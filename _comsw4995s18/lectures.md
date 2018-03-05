@@ -116,21 +116,23 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>7</td>
 		<td align="right" sdval="42793" sdnum="1033;0;MM/DD/YY">02/26/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-12-022618-model-evaluation/#1">Model Evaluation</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-12-022618-model-evaluation/#1">Model Evaluation</a>&nbsp;
+            <a href="https://www.dropbox.com/s/odwiwlnm032l6mh/12-model-evaluation.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i> (partial)</a> </td>
 		<td>IMLP p275-302, APM Ch 16</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42795" sdnum="1033;0;MM/DD/YY">02/28/18</td>
-        <td>Learning with Imbalanced Data<br></td>
+        <td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-13-022818-resampling-imbalanced-data/#1">Learning with Imbalanced Data</a>&nbsp;
+            <a href="https://www.dropbox.com/s/b4vy0gwcx90exsh/13-imbalanced-data.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a> </td>
         <td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td align="right" sdval="42800" sdnum="1033;0;MM/DD/YY">03/05/18</td>
-		<td>tbd</td>
+		<td><a href="https://github.com/amueller/COMS4995-s18/blob/master/homeworks/homework3/hw3.ipynb">Discussion of Homework 3</a> and Q & A for mid-term</td>
 		<td><br></td>
 		<td>HW 3 due<br></td>
 	</tr>
