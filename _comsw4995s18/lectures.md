@@ -132,7 +132,8 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>8</td>
 		<td align="right" sdval="42800" sdnum="1033;0;MM/DD/YY">03/05/18</td>
-		<td><a href="https://github.com/amueller/COMS4995-s18/blob/master/homeworks/homework3/hw3.ipynb">Discussion of Homework 3</a> and Q & A for mid-term</td>
+		<td><a href="https://github.com/amueller/COMS4995-s18/blob/master/homeworks/homework3/hw3.ipynb">Discussion of Homework 3</a>&nbsp;
+            <a href="https://www.dropbox.com/s/lsi1s0p5juyjgg3/14-homework3-discussion.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a> </td>
 		<td><br></td>
 		<td>HW 3 due<br></td>
 	</tr>
