@@ -13,7 +13,7 @@ sidebar:
 - **Office hours**:
     - **Andreas Mueller** Thursdays 11am-12pm Mudd 410
     - **Kevin Raji Cherian** Fridays 5pm-7pm
-    - **Vinay Kale Mondays** 9am-11am, Fridays 10am-12pm
+    - **Vinay Kale** Mondays 9am-11am, Fridays 10am-12pm
     - **Rajath Kumar** Wednesdays 7pm-9pm
     - **Siddharth Ramakrishnan** Tuesdays 10am-12pm, Fridays 2pm-4pm
 
