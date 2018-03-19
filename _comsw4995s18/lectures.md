@@ -161,7 +161,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>10</td>
 		<td align="right" sdval="42814" sdnum="1033;0;MM/DD/YY">03/19/18</td>
-		<td>Dimensionality Reduction</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-14-031918-pca-discriminants-manifold-learning">Dimensionality Reduction</a></td>
 		<td>IMLP p140-156, p163-168, APM p35-40</td>
         <td></td>
 	</tr>
