@@ -161,8 +161,8 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>10</td>
 		<td align="right" sdval="42814" sdnum="1033;0;MM/DD/YY">03/19/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-14-031918-pca-discriminants-manifold-learning">Dimensionality Reduction</a>&nbsp;
-            <a href="https://www.dropbox.com/s/98qmr0ur7ekxj16/2018-03-19%2013-10-04.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a> </td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-15-031918-pca-discriminants-manifold-learning">Dimensionality Reduction</a>&nbsp;
+            <a href="https://www.dropbox.com/s/98qmr0ur7ekxj16/15-dimensionality-reduction.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a> </td>
 
 		<td>IMLP p140-156, p163-168, APM p35-40</td>
         <td></td>
