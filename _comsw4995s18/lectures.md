@@ -170,79 +170,79 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42816" sdnum="1033;0;MM/DD/YY">03/21/18</td>
-		<td>Clustering and mixture models</td>
-		<td>IMLP p168-208</td>
-		<td></td>
-	</tr>
-	<tr>
+		<td>Snow day!</td>
+		<td><br></td>
+		<td><br></td>
+    </tr>
+    <tr>    
 		<td>11</td>
 		<td align="right" sdval="42821" sdnum="1033;0;MM/DD/YY">03/26/18</td>
-		<td>Cluster evaluation</td>
-		<td></td>
+		<td>Clustering and mixture models</td>
+		<td>IMLP p168-208</td>
 		<td>HW 4 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42823" sdnum="1033;0;MM/DD/YY">03/28/18</td>
+		<td>Cluster evaluation</td>
+		<td></td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td align="right" sdval="42828" sdnum="1033;0;MM/DD/YY">04/02/18</td>
 		<td>NMF and Outlier Detection</td>
 		<td>IMLP p140-168</td>
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>12</td>
-		<td align="right" sdval="42828" sdnum="1033;0;MM/DD/YY">04/02/18</td>
-		<td>Working with text data</td>
-		<td>IMLP p323-336</td>
-		<td></td>
-	</tr>
-	<tr>
 		<td><br></td>
 		<td align="right" sdval="42830" sdnum="1033;0;MM/DD/YY">04/04/18</td>
-		<td>Topic models for text data</td>
-		<td>IMLP p347-355</td>
+		<td>Working with text data</td>
+		<td>IMLP p323-336</td>
 		<td>HW 4 due, HW 5 posted</td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td align="right" sdval="42835" sdnum="1033;0;MM/DD/YY">04/09/18</td>
+		<td>Topic models for text data</td>
+		<td>IMLP p347-355</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td><br></td>
+		<td align="right" sdval="42837" sdnum="1033;0;MM/DD/YY">04/11/18</td>
 		<td>Word and document embeddings</td>
 		<td><a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">Mikolov 2013a</a>, <a href="http://www.aclweb.org/anthology/N13-1090">Mikolov 2013b</a>,
         <a href="https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/word2vec.ipynb">gensim word2vec</a></td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><br></td>
-		<td align="right" sdval="42837" sdnum="1033;0;MM/DD/YY">04/11/18</td>
-		<td>Neural Networks</td>
-		<td>IMLP p104-109, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
-		<td><br></td>
-	</tr>
-	<tr>
 		<td>14</td>
 		<td align="right" sdval="42842" sdnum="1033;0;MM/DD/YY">04/16/18</td>
-		<td>Convolutional neural networks</td>
-		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a></td>
-		<td>HW 5 posted, HW 6 posted</td>
+		<td>Neural Networks</td>
+		<td>IMLP p104-109, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
+		<td>HW 5 due, HW 6 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42844" sdnum="1033;0;MM/DD/YY">04/18/18</td>
-		<td>Even more neural networks</td>
-		<td><a href="http://www.deeplearningbook.org/contents/convnets.html">DL Ch 9</a>, <a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a></td>
+		<td>Convolutional neural networks</td>
+		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>15</td>
 		<td align="right" sdval="42849" sdnum="1033;0;MM/DD/YY">04/23/18</td>
-		<td>Time series data</td>
-		<td><br></td>
+		<td>Even more neural networks</td>
+		<td><a href="http://www.deeplearningbook.org/contents/convnets.html">DL Ch 9</a>, <a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42851" sdnum="1033;0;MM/DD/YY">04/25/18</td>
-		<td>Machine Learning in Production</td>
-		<td>IMLP Ch 8, HICC</td>
+		<td>Time series data</td>
+		<td><br></td>
 		<td>HW 6 due</td>
 	</tr>
 	<tr>
