@@ -163,7 +163,6 @@ Press P on slides for presenter notes.
 		<td align="right" sdval="42814" sdnum="1033;0;MM/DD/YY">03/19/18</td>
 		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-15-031918-pca-discriminants-manifold-learning">Dimensionality Reduction</a>&nbsp;
             <a href="https://www.dropbox.com/s/98qmr0ur7ekxj16/15-dimensionality-reduction.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a> </td>
-
 		<td>IMLP p140-156, p163-168, APM p35-40</td>
         <td></td>
 	</tr>
@@ -177,7 +176,7 @@ Press P on slides for presenter notes.
     <tr>    
 		<td>11</td>
 		<td align="right" sdval="42821" sdnum="1033;0;MM/DD/YY">03/26/18</td>
-		<td>Clustering and mixture models</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-16-032118-clustering-and-mixture-models">Clustering and mixture models</a></td>
 		<td>IMLP p168-208</td>
 		<td>HW 4 posted</td>
 	</tr>
