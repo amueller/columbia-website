@@ -180,7 +180,7 @@ Press P on slides for presenter notes.
             <a href="https://www.dropbox.com/s/gqik3mgzsjgtuid/16-clustering-mixture-models.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a>
 		</td>
 		<td>IMLP p168-208</td>
-		<td>HW 4 posted</td>
+		<td><a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/Homework4.pdf">HW 4 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
