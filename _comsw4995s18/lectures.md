@@ -185,7 +185,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42823" sdnum="1033;0;MM/DD/YY">03/28/18</td>
-		<td>Cluster evaluation</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-17-032818-clustering-evaluation">Cluster evaluation</a></td>
 		<td></td>
 		<td></td>
 	</tr>
