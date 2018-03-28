@@ -185,8 +185,10 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42823" sdnum="1033;0;MM/DD/YY">03/28/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-17-032818-clustering-evaluation">Cluster evaluation</a></td>
-		<td></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-17-032818-clustering-evaluation">Cluster evaluation</a>&nbsp;
+            <a href="https://www.dropbox.com/s/i57q6v9ncwpyacy/17-cluster-evaluation.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a>
+		</td>
+		<td><a href="https://arxiv.org/abs/1007.1075">Clustering Stability, Sections 1 &amp; 2</a></td>
 		<td></td>
 	</tr>
 	<tr>
