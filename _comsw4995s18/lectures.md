@@ -194,7 +194,8 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>12</td>
 		<td align="right" sdval="42828" sdnum="1033;0;MM/DD/YY">04/02/18</td>
-		<td>NMF and Outlier Detection</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-18-040218-nmf-outlier-detection">NMF and Outlier Detection</a>&nbsp;
+            <a href="https://www.dropbox.com/s/k2y80lnyjsr9v8v/18-outlier-detection.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td>IMLP p140-168</td>
 		<td><br></td>
 	</tr>
