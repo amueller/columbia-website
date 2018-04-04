@@ -202,7 +202,9 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42830" sdnum="1033;0;MM/DD/YY">04/04/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-19-040418-working-with-text-data">Working with text data</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-19-040418-working-with-text-data">Working with text data</a>&nbsp;
+            <a href="https://www.dropbox.com/s/8a7wz6elmxa5wjl/19-text-data.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a>
+		</td>
 		<td>IMLP p323-336</td>
 		<td>HW 4 due, <a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/Homework5.pdf">HW 5 posted</a></td>
 	</tr>
