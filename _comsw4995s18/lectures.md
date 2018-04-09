@@ -211,7 +211,9 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>13</td>
 		<td align="right" sdval="42835" sdnum="1033;0;MM/DD/YY">04/09/18</td>
-		<td>Topic models for text data</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-20-040918-topic-models">Topic models for text data</a>&nbsp;
+            <a href="https://www.dropbox.com/s/gjzyc1hlcwif1qa/20-topic-models.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a>
+		</td>
 		<td>IMLP p347-355</td>
 		<td></td>
 	</tr>
