@@ -56,13 +56,23 @@ For homeworks submitted in groups (if allowed), a single write-up should be subm
 Collaboration is not permitted for any of the exams.
 
 ### Use of outside references
-Students are welcome to use any outside materials sources on general machine learning and data science topics.
-However, you are not permitted to use solutions to specific homework tasks or problems that you find online.
+Students are welcome to use any outside materials sources on general machine
+learning and data science topics.  However, you are not permitted to use
+solutions to specific homework tasks or problems that you find online.
+Code that is provided during the lectures or as part of the github repository
+can be reused for the homework, but should be marked as such.
 
-Violations
-Violation of any portion of these policies will result in a penalty to be assessed at the instructor’s discretion. **This may include receiving a zero grade for the assignment in question AND a failing grade for the whole course, even for the first infraction.** Such students are also reported to the relevant Deans’ offices that handle cases of academic dishonesty.
+### Violations
+Violation of any portion of these policies will result in a penalty to be
+assessed at the instructor’s discretion. **This may include receiving a zero
+grade for the assignment in question AND a failing grade for the whole course,
+even for the first infraction.** Such students are also reported to the
+relevant Deans’ offices that handle cases of academic dishonesty.
 
 ### Copyright notice
-Lecture slides, notes, illustrations and notebooks are licensed under [CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) and can be used without requiring acknowledgement for any purpose (though acknowledgement is appreciated).
-Homeworks, homework solutions, exams and exam solutions are copyrighted and may not be re-distributed without explicit permission
-from the instructor.
+Lecture slides, notes, illustrations and notebooks are licensed under
+[CC-0](https://creativecommons.org/share-your-work/public-domain/cc0/) and can
+be used without requiring acknowledgement for any purpose (though
+acknowledgement is appreciated).  Homeworks, homework solutions, exams and exam
+solutions are copyrighted and may not be re-distributed without explicit
+permission from the instructor.
