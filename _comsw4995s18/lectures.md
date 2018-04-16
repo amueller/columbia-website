@@ -230,7 +230,9 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>14</td>
 		<td align="right" sdval="42842" sdnum="1033;0;MM/DD/YY">04/16/18</td>
-		<td>Neural Networks</td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-22-041618-neural-networks">Neural Networks</a>>&nbsp;
+            <a href="https://www.dropbox.com/s/kag8p1sjsbgqa3p/22-neural-networks.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a>
+		</td>
 		<td>IMLP p104-109, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
 		<td>HW 5 due, HW 6 posted</td>
 	</tr>
