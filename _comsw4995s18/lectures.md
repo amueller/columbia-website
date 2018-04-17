@@ -234,7 +234,7 @@ Press P on slides for presenter notes.
             <a href="https://www.dropbox.com/s/kag8p1sjsbgqa3p/22-neural-networks.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a>
 		</td>
 		<td>IMLP p104-109, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
-		<td>HW 5 due, HW 6 posted</td>
+		<td>HW 5 due,  <a href="https://github.com/amueller/COMS4995-s18/raw/master/homeworks/Homework6.pdf">HW 6 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
