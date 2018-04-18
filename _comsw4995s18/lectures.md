@@ -240,7 +240,7 @@ Press P on slides for presenter notes.
 		<td><br></td>
 		<td align="right" sdval="42844" sdnum="1033;0;MM/DD/YY">04/18/18</td>
 		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-23-041818-convolutional-nets">Neural networks in practice</a></td>
-		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a>, <a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a></td>
+		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a>, <a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a>, <a href="https://distill.pub/2017/feature-visualization/">Feature Visualization</a></td>
 		<td><br></td>
 	</tr>
 	<tr>
