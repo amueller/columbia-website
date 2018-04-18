@@ -257,7 +257,7 @@ Press P on slides for presenter notes.
 		<td align="right" sdval="42851" sdnum="1033;0;MM/DD/YY">04/25/18</td>
 		<td>tbd</td>
 		<td><br></td>
-		<td>HW 6 due</td>
+		<td>HW 6 due <b>Extended to 04/28/18</b></td>
 	</tr>
 	<tr>
 		<td>16</td>
