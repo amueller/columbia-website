@@ -248,14 +248,14 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>15</td>
 		<td align="right" sdval="42849" sdnum="1033;0;MM/DD/YY">04/23/18</td>
-		<td>Time series data</td>
+		<td>Advanced Neural Networks</td>
 		<td></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42851" sdnum="1033;0;MM/DD/YY">04/25/18</td>
-		<td>tbd</td>
+		<td>Time series data</td>
 		<td><br></td>
 		<td>HW 6 due <b>Extended to 04/28/18</b></td>
 	</tr>
