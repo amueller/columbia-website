@@ -248,7 +248,10 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>15</td>
 		<td align="right" sdval="42849" sdnum="1033;0;MM/DD/YY">04/23/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-24-042318-advanced-nets">Advanced Neural Networks</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-24-042318-advanced-nets">Advanced Neural Networks</a>&nbsp;
+            <a href="https://www.dropbox.com/s/uhxyxqptbbs6mqu/24-advanced-neural-nets.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a>
+		
+		</td>
 		<td></td>
 		<td><br></td>
 	</tr>
