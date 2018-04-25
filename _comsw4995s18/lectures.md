@@ -257,7 +257,8 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td align="right" sdval="42851" sdnum="1033;0;MM/DD/YY">04/25/18</td>
-		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-25-042518-time-series">Time series data</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s18/slides/aml-25-042518-time-series">Time series data</a>&nbsp;
+            <a href="https://www.dropbox.com/s/heukowlwop0aw20/25-time-series.mkv?dl=1"><i class="fa fa-film" aria-hidden="true"></i></a></td>
 		<td><br></td>
 		<td>HW 6 due <b>Extended to 04/28/18</b></td>
 	</tr>
