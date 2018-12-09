@@ -13,7 +13,7 @@ title                    : "Andreas C. Müller - Associate Research Scientist"
 title_separator          : "-"
 name                     : "Andreas C. Müller"
 description              : "Website of Associate Research Scientist Andreas C. Mueller - Columbia University"
-url                      : "http://www.cs.columbia.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://www.cs.columbia.edu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/~amueller" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -118,6 +118,7 @@ include:
   - .htaccess
   - _pages
   - _comsw4995s18
+  - _comsw4995s19
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -261,3 +262,10 @@ defaults:
     values:
       sidevar:
         nav: "comsw4995s18"
+  # _comsw4995s19
+  - scope:
+      path: ""
+      type: comsw4995s19
+    values:
+      sidevar:
+        nav: "comsw4995s19"

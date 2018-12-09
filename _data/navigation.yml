@@ -24,3 +24,14 @@ comsw4995s18:
         url: https://courseworks2.columbia.edu/courses/sis_course_id:COMSW4995_003_2018_1
       - title: "GitHub"
         url: https://github.com/amueller/COMS4995-s18
+
+
+comsw4995s19:
+  - title: "COMS W4995"
+    children:
+      - title: "Overview"
+        url: /comsw4995s19/
+      - title: "Schedule"
+        url: /comsw4995s19/schedule/
+      - title: "Syllabus"
+        url: /comsw4995s19/syllabus/
