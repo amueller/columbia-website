@@ -33,5 +33,10 @@ comsw4995s19:
         url: /comsw4995s19/
       - title: "Schedule"
         url: /comsw4995s19/schedule/
-      - title: "Syllabus"
-        url: /comsw4995s19/syllabus/
+      - title: "Piazza"
+        url: https://piazza.com/class/jop0ywdqsmv6r3#
+      - title: "Courseworks"
+        url: https://courseworks2.columbia.edu/courses/78720
+      - title: "GitHub"
+        url: https://github.com/amueller/COMS4995-s19
+
