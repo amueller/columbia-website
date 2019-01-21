@@ -39,7 +39,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td>01/30/19</td>
-		<td>Testing, matplotlib and visualization &nbsp;</td>
+		<td>matplotlib and visualization &nbsp;</td>
 		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
 		<td><br></td>
 	</tr>
@@ -47,48 +47,47 @@ Press P on slides for presenter notes.
 		<td>3</td>
 		<td>02/04/19</td>
 		<td>Introduction to supervised learning&nbsp;
-            </td>
+        </td>
 		<td>IMLP p25-44, APM Ch 4-4.3, IMLP p251-262, APM Ch 4.4-4.8</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/06/19</td>
-		<td>Linear models for Regression&nbsp;
-            </td>
-		<td>IMLP p45-68, APM Ch 6</td>
-		<td>HW 1 due, HW 2 posted</td>
+		<td>Preprocessing and feature engineering&nbsp;
+        </td>
+		<td>IMLP p132-140, IMLP p211-220, APM Ch 3,</td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>02/11/19</td>
-		<td>Linear models for Classification&nbsp;
-            </td>
-		<td>IMLP p45-68,  Ch 12.1-12.2, 12.5</td>
-		<td></td>
+		<td>Linear models and Support Vector Machines&nbsp;
+        </td>
+		<td>IMLP p45-68, APM Ch 6</td>
+		<td>HW 1 due, HW 2 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/13/19</td>
-		<td>Preprocessing and feature engineering&nbsp;
-            </td>
-		<td>IMLP p132-140, IMLP p211-220, APM Ch 3</td>
+		<td>TBD</td>
+		<td></td>
+		<td></td>
 		<td>HW 2 due</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>02/18/19</td>
-		<td>Imputation and Feature Selection&nbsp;
+		<td>TBD;
             </td>
-		<td>IMLP p236-241, APM Ch 19</td>
+		<td></td>
 		<td>HW 3 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/20/19</td>
-		<td>Support Vector Machines&nbsp;
+		<td>TBD&nbsp;
             </td>
-		<td>IMLP p92-103, APM Ch 13.4</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
