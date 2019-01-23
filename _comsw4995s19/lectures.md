@@ -57,6 +57,8 @@ Press P on slides for presenter notes.
 		<td>Preprocessing and feature engineering&nbsp;
         </td>
 		<td>IMLP p132-140, IMLP p211-220, APM Ch 3,</td>
+		<td>HW 1 due, HW 2 posted</td>
+
 	</tr>
 	<tr>
 		<td>4</td>
@@ -64,38 +66,36 @@ Press P on slides for presenter notes.
 		<td>Linear models and Support Vector Machines&nbsp;
         </td>
 		<td>IMLP p45-68, APM Ch 6</td>
-		<td>HW 1 due, HW 2 posted</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/13/19</td>
 		<td>TBD</td>
 		<td></td>
-		<td></td>
 		<td>HW 2 due</td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>02/18/19</td>
-		<td>TBD;
-            </td>
+		<td>TBD</td>
 		<td></td>
 		<td>HW 3 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/20/19</td>
-		<td>TBD&nbsp;
-            </td>
-		<td></td>
+		<td>Trees, Forests &amp; Ensembles</td>
+		<td>IMLP p70-88, APM Ch 14.1-14.4</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>02/25/19</td>
-		<td>Trees, Forests &amp; Ensembles</td>
-		<td>IMLP p70-88, APM Ch 14.1-14.4</td>
-		<td></td>
+		<td>Gradient Boosting, Calibration&nbsp;
+            </td>
+		<td>IMLP p89-92, APM Ch 14.5</td>
+		<td><br></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -108,25 +108,26 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>7</td>
 		<td>03/04/19</td>
-		<td>Gradient Boosting, Calibration&nbsp;
-            </td>
-		<td>IMLP p89-92, APM Ch 14.5</td>
-		<td><br></td>
+		<td>Model Evaluation&nbsp;
+             </td>
+		<td>IMLP p275-302, APM Ch 16</td>
+		<td></td>
+
 	</tr>
 	<tr>
 		<td></td>
 		<td>03/06/19</td>
-		<td>Model Evaluation&nbsp;
+        <td>Learning with Imbalanced Data&nbsp;
              </td>
-		<td>IMLP p275-302, APM Ch 16</td>
+        <td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
 		<td>HW 3 due</td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>03/11/19</td>
-        <td>Learning with Imbalanced Data&nbsp;
-             </td>
-        <td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
+
+		<td>Model Interpretration and Feature Selection</td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
