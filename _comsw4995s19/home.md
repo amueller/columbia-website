@@ -10,7 +10,13 @@ sidebar:
 - **Location**: 207 Mathematics Building
 - **Instuctor**: Andreas C. Müller
 - **Office hours**: Wednesdays 10am-11am, Interchurch 320 K
-- **Course Assistants**: Pranjal Bajaj, Ujjwal Peshin, Liyan Nie, Yao Fu, Luv Aggarwal, Sukriti Tiwari
+- **Course Assistants**:
+    - Pranjal Bajaj (Thursday 4-6pm)
+    - Ujjwal Peshin (Friday 1-3pm)
+    - Liyan Nie (TBA)
+    - Yao Fu (TBA)
+    - Luv Aggarwal (Monday 6-8pm)
+    - Sukriti Tiwari (Wednesday 6-8pm)
 
 ### Enrollment
 MS DS students can enroll via SSOL. External students need to follow the <a href="http://datascience.columbia.edu/course-inventory">
