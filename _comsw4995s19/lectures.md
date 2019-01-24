@@ -25,7 +25,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>1</td>
 		<td>01/23/19</td>
-		<td>Introduction</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-01-introduction/">Introduction</a>&nbsp;<a href="https://www.youtube.com/watch?v=Qd68h4UGlNY&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 1, APM Ch 1-2</td>
 		<td><br></td>
 	</tr>
@@ -33,14 +33,14 @@ Press P on slides for presenter notes.
 		<td>2</td>
 		<td>01/28/19</td>
 		<td>Software infrastructure</td>
-		<td>IMLP Ch 1, <a href="https://www.youtube.com/watch?v=1ffBJ4sVUb4">git for ages 4 and up</a></td>
+		<td><a href="http://rogerdudler.github.io/git-guide/">Git - the simple guide</a>, <a href="https://www.youtube.com/watch?v=1ffBJ4sVUb4">git for ages 4 and up</a></td>
 		<td>HW 1 posted</td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>01/30/19</td>
 		<td>matplotlib and visualization &nbsp;</td>
-		<td><a href="https://www.youtube.com/watch?v=xAoljeRJ3lU">colormap talk</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
+		<td><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
 		<td><br></td>
 	</tr>
 	<tr>
