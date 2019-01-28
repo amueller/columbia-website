@@ -32,9 +32,9 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>2</td>
 		<td>01/28/19</td>
-		<td>Software infrastructure</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-02-python-git-testing/">git, GitHub and testing</a>&nbsp;<a href="https://www.youtube.com/watch?v=EPVwnG-n4B0&index=2&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td><a href="http://rogerdudler.github.io/git-guide/">Git - the simple guide</a>, <a href="https://www.youtube.com/watch?v=1ffBJ4sVUb4">git for ages 4 and up</a></td>
-		<td>HW 1 posted</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/homeworks/homework1-spring-2019.pdf">HW 1 posted</a></td>
 	</tr>
 	<tr>
 		<td><br></td>
@@ -58,7 +58,6 @@ Press P on slides for presenter notes.
         </td>
 		<td>IMLP p132-140, IMLP p211-220, APM Ch 3,</td>
 		<td>HW 1 due, HW 2 posted</td>
-
 	</tr>
 	<tr>
 		<td>4</td>
