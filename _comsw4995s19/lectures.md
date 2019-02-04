@@ -39,16 +39,16 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td>01/30/19</td>
-		<td>matplotlib and visualization &nbsp;</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-03-matplotlib/#1">matplotlib and visualization</a>&nbsp;<a href="https://www.youtube.com/watch?v=O2zXpQmij_c&index=4&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&t=6s"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>3</td>
 		<td>02/04/19</td>
-		<td>Introduction to supervised learning&nbsp;
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-04-supervised-learning/#1">Introduction to supervised learning</a>&nbsp;
         </td>
-		<td>IMLP p25-44, APM Ch 4-4.3, IMLP p251-262, APM Ch 4.4-4.8</td>
+		<td>IMLP Ch2.1-2.3.2, APM Ch 4-4.3, IMLP Ch 5.1, 5.2, APM Ch 4.4-4.8</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -56,7 +56,7 @@ Press P on slides for presenter notes.
 		<td>02/06/19</td>
 		<td>Preprocessing and feature engineering&nbsp;
         </td>
-		<td>IMLP p132-140, IMLP p211-220, APM Ch 3,</td>
+		<td>IMLP Ch 3.3, IMLP Ch 4.1-4.6, APM Ch 3,</td>
 		<td>HW 1 due, HW 2 posted</td>
 	</tr>
 	<tr>
@@ -85,7 +85,7 @@ Press P on slides for presenter notes.
 		<td><br></td>
 		<td>02/20/19</td>
 		<td>Trees, Forests &amp; Ensembles</td>
-		<td>IMLP p70-88, APM Ch 14.1-14.4</td>
+		<td>IMLP 2.3.5, 2.3.6, APM Ch 14.1-14.4</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -93,7 +93,7 @@ Press P on slides for presenter notes.
 		<td>02/25/19</td>
 		<td>Gradient Boosting, Calibration&nbsp;
             </td>
-		<td>IMLP p89-92, APM Ch 14.5</td>
+		<td>IMLP 2.3.6, APM Ch 14.5</td>
 		<td><br></td>
 	</tr>
 	<tr>
@@ -109,7 +109,7 @@ Press P on slides for presenter notes.
 		<td>03/04/19</td>
 		<td>Model Evaluation&nbsp;
              </td>
-		<td>IMLP p275-302, APM Ch 16</td>
+		<td>IMLP 5.3, APM Ch 16</td>
 		<td></td>
 
 	</tr>
@@ -154,7 +154,7 @@ Press P on slides for presenter notes.
 		<td>10</td>
 		<td>03/25/19</td>
 		<td>Dimensionality Reduction</td>
-		<td>IMLP p140-156, p163-168, APM p35-40</td>
+		<td>IMLP Ch 3.4.1, 3.4.3, APM p35-40</td>
         <td></td>
 	</tr>
     <tr>    
@@ -162,7 +162,7 @@ Press P on slides for presenter notes.
 		<td>03/27/19</td>
 		<td>Clustering and mixture models
 		</td>
-		<td>IMLP p168-208</td>
+		<td>IMLP 3.5</td>
 		<td>HW 4 posted</td>
 	</tr>
 	<tr>
@@ -178,7 +178,7 @@ Press P on slides for presenter notes.
 		<td>04/03/19</td>
 		<td>NMF and Outlier Detection
             </td>
-		<td>IMLP p140-168</td>
+		<td>IMLP 3.4.2</td>
 		<td><br></td>
 	</tr>
 	<tr>
@@ -186,7 +186,7 @@ Press P on slides for presenter notes.
 		<td>04/08/19</td>
 		<td>Working with text data
 		</td>
-		<td>IMLP p323-336</td>
+		<td>IMLP Ch 7.1-7.8</td>
 		<td>HW 4 due, HW 5 posted</td>
 	</tr>
 	<tr>
@@ -194,7 +194,7 @@ Press P on slides for presenter notes.
 		<td>04/10/19</td>
 		<td>Topic models for text data         
 		</td>
-		<td>IMLP p347-355</td>
+		<td>IMLP Ch 7.9</td>
 		<td></td>
 	</tr>
 	<tr>
@@ -211,7 +211,7 @@ Press P on slides for presenter notes.
 		<td>04/17/19</td>
 		<td>Neural Networks
 		</td>
-		<td>IMLP p104-109, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
+		<td>IMLP Ch 2.3.8, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
 		<td>HW 5 due,  HW 6 posted</td>
 	</tr>
 	<tr>
