@@ -46,7 +46,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>3</td>
 		<td>02/04/19</td>
-		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-04-supervised-learning/#1">Introduction to supervised learning</a>&nbsp;
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-04-supervised-learning/#1">Introduction to supervised learning</a>&nbsp;<a href="https://www.youtube.com/watch?v=MEEWqrJEtTg&t=3s&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=5"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
         </td>
 		<td>IMLP Ch2.1-2.3.2, APM Ch 4-4.3, IMLP Ch 5.1, 5.2, APM Ch 4.4-4.8</td>
 		<td></td>
@@ -54,39 +54,38 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td>02/06/19</td>
-		<td>Preprocessing and feature engineering&nbsp;
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-05-preprocessing/">Preprocessing and feature engineering</a>&nbsp;
         </td>
 		<td>IMLP Ch 3.3, IMLP Ch 4.1-4.6, APM Ch 3,</td>
-		<td>HW 1 due, HW 2 posted</td>
+		<td>HW 1 due, <a href="https://amueller.github.io/COMS4995-s19/homeworks/homework2-spring-2019.pdf">HW 2 posted</a></td>
 	</tr>
 	<tr>
 		<td>4</td>
 		<td>02/11/19</td>
-		<td>Linear models and Support Vector Machines&nbsp;
-        </td>
+		<td>Linear models</td>
 		<td>IMLP p45-68, APM Ch 6</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/13/19</td>
-		<td>TBD</td>
+		<td>More Feature Engineering</td>
 		<td></td>
-		<td>HW 2 due</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>02/18/19</td>
-		<td>TBD</td>
+		<td>SVMs and Kernels</td>
 		<td></td>
-		<td>HW 3 posted</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/20/19</td>
 		<td>Trees, Forests &amp; Ensembles</td>
 		<td>IMLP 2.3.5, 2.3.6, APM Ch 14.1-14.4</td>
-		<td></td>
+		<td>HW 2 due, HW 3 posted</td>
 	</tr>
 	<tr>
 		<td>6</td>
@@ -111,7 +110,6 @@ Press P on slides for presenter notes.
              </td>
 		<td>IMLP 5.3, APM Ch 16</td>
 		<td></td>
-
 	</tr>
 	<tr>
 		<td></td>
@@ -176,8 +174,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td></td>
 		<td>04/03/19</td>
-		<td>NMF and Outlier Detection
-            </td>
+		<td>NMF and Outlier Detection</td>
 		<td>IMLP 3.4.2</td>
 		<td><br></td>
 	</tr>
@@ -240,7 +237,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td></td>
 		<td>05/01/19</td>
-		<td><b>TBD</b></td>
+		<td>Parameter tuning and Automatic Machine Learning</td>
 		<td><br></td>
 		<td>HW 6 due</td>
 	</tr>
