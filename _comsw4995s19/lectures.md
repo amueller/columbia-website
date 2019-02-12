@@ -54,7 +54,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td><br></td>
 		<td>02/06/19</td>
-		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-05-preprocessing/">Preprocessing and feature engineering</a>&nbsp;
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-05-preprocessing/">Preprocessing</a>&nbsp;<a href="https://www.youtube.com/watch?v=9rBc3rTsJsY&index=6&t=0s&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
         </td>
 		<td>IMLP Ch 3.3, IMLP Ch 4.1-4.6, APM Ch 3,</td>
 		<td>HW 1 due, <a href="https://amueller.github.io/COMS4995-s19/homeworks/homework2-spring-2019.pdf">HW 2 posted</a></td>
@@ -62,21 +62,23 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>4</td>
 		<td>02/11/19</td>
-		<td>Linear models</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-06-linear-models-regression/">Linear models for Regression</a>&nbsp;<a href="https://www.youtube.com/watch?v=3cZ_ScHonsI&index=6&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP p45-68, APM Ch 6</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td><br></td>
+		<td></td>
+
 		<td>02/13/19</td>
-		<td>More Feature Engineering</td>
+		<td>Linear models for Classification, SVMs<br></td>
+
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>02/18/19</td>
-		<td>SVMs and Kernels</td>
+		<td>Imputation and Feature Engineering</td>
 		<td></td>
 		<td></td>
 	</tr>
