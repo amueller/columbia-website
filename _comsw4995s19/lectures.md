@@ -70,31 +70,29 @@ Press P on slides for presenter notes.
 		<td></td>
 
 		<td>02/13/19</td>
-		<td>Linear models for Classification, SVMs<br></td>
-
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-07-linear-models-classification/">Linear models for Classification, SVMs</a></td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>02/18/19</td>
-		<td>Imputation and Feature Engineering</td>
-		<td></td>
+		<td>Trees, Forests &amp; Ensembles</td>
+		<td>IMLP 2.3.5, 2.3.6, APM Ch 14.1-14.4</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/20/19</td>
-		<td>Trees, Forests &amp; Ensembles</td>
-		<td>IMLP 2.3.5, 2.3.6, APM Ch 14.1-14.4</td>
+		<td>Gradient Boosting, Calibration&nbsp;</td>
+		<td>IMLP 2.3.6, APM Ch 14.5</td>
 		<td>HW 2 due, HW 3 posted</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>02/25/19</td>
-		<td>Gradient Boosting, Calibration&nbsp;
-            </td>
-		<td>IMLP 2.3.6, APM Ch 14.5</td>
+		<td>Model Evaluation&nbsp;</td>
+		<td>IMLP 5.3, APM Ch 16</td>
 		<td><br></td>
 	</tr>
 	<tr>
@@ -108,24 +106,21 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>7</td>
 		<td>03/04/19</td>
-		<td>Model Evaluation&nbsp;
-             </td>
-		<td>IMLP 5.3, APM Ch 16</td>
+		<td>Learning with Imbalanced Data&nbsp;</td>
+		<td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>03/06/19</td>
-        <td>Learning with Imbalanced Data&nbsp;
-             </td>
-        <td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
-		<td>HW 3 due</td>
+        <td>Model Interpretration and Feature Selection</td>
+        <td></td>
+		<td></td>
 	</tr>
 	<tr>
 		<td>8</td>
 		<td>03/11/19</td>
-
-		<td>Model Interpretration and Feature Selection</td>
+		<td>TBD</td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -163,7 +158,7 @@ Press P on slides for presenter notes.
 		<td>Clustering and mixture models
 		</td>
 		<td>IMLP 3.5</td>
-		<td>HW 4 posted</td>
+		<td>HW 3 due</td>
 	</tr>
 	<tr>
 		<td>11</td>
@@ -186,7 +181,7 @@ Press P on slides for presenter notes.
 		<td>Working with text data
 		</td>
 		<td>IMLP Ch 7.1-7.8</td>
-		<td>HW 4 due, HW 5 posted</td>
+		<td>HW 4 posted</td>
 	</tr>
 	<tr>
 		<td></td>
@@ -211,7 +206,7 @@ Press P on slides for presenter notes.
 		<td>Neural Networks
 		</td>
 		<td>IMLP Ch 2.3.8, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
-		<td>HW 5 due,  HW 6 posted</td>
+		<td>HW 4 due,  HW 5 posted</td>
 	</tr>
 	<tr>
 		<td>14</td>
@@ -241,7 +236,7 @@ Press P on slides for presenter notes.
 		<td>05/01/19</td>
 		<td>Parameter tuning and Automatic Machine Learning</td>
 		<td><br></td>
-		<td>HW 6 due</td>
+		<td>HW 5 due</td>
 	</tr>
 	<tr>
 		<td>16</td>
