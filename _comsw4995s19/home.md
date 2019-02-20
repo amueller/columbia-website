@@ -14,7 +14,7 @@ sidebar:
     - Pranjal Bajaj (Thursday 4-6pm)
     - Ujjwal Peshin (Friday 1-3pm)
     - Liyan Nie (Thursdays 10am-12pm)
-    - Yao Fu (Tuesday 1:30-3:30pm)
+    - Yao Fu (Tuesday 10am-12pm)
     - Luv Aggarwal (Monday 6-8pm)
     - Sukriti Tiwari (Wednesday 6-8pm)
 

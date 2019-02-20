@@ -68,23 +68,22 @@ Press P on slides for presenter notes.
 	</tr>
 	<tr>
 		<td></td>
-
 		<td>02/13/19</td>
-		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-07-linear-models-classification/">Linear models for Classification, SVMs</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-07-linear-models-classification/">Linear models for Classification, SVMs</a>&nbsp;<a href="https://www.youtube.com/watch?v=MRfLSgJyfpQ&index=8&t=0s&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>02/18/19</td>
-		<td>Trees, Forests &amp; Ensembles</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-08-trees-forests/">Trees, Forests &amp; Ensembles</a>&nbsp;<a href="https://www.youtube.com/watch?v=_FBgcCbAvig&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=8"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP 2.3.5, 2.3.6, APM Ch 14.1-14.4</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td><br></td>
 		<td>02/20/19</td>
-		<td>Gradient Boosting, Calibration&nbsp;</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-09-gradient-boosting-calibration/">Gradient Boosting, Calibration</a>&nbsp;<a href="https://www.youtube.com/watch?v=OC3qmxGh2gc&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=9"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP 2.3.6, APM Ch 14.5</td>
 		<td>HW 2 due, HW 3 posted</td>
 	</tr>
