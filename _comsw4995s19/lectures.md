@@ -85,14 +85,14 @@ Press P on slides for presenter notes.
 		<td>02/20/19</td>
 		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-09-gradient-boosting-calibration/">Gradient Boosting, Calibration</a>&nbsp;<a href="https://www.youtube.com/watch?v=OC3qmxGh2gc&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=9"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP 2.3.6, APM Ch 14.5</td>
-		<td>HW 2 due, HW 3 posted</td>
+		<td>HW 2 due</td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>02/25/19</td>
-		<td>Model Evaluation&nbsp;</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-10-model-evaluation/">Model Evaluation</a>&nbsp;<a href="https://www.youtube.com/watch?v=EUiIydNBIbE&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=11"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP 5.3, APM Ch 16</td>
-		<td><br></td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/homeworks/homework3-spring-2019.pdf">HW 3 posted</a></td>
 	</tr>
 	<tr>
 		<td></td>
