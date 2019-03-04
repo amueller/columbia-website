@@ -105,7 +105,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>7</td>
 		<td>03/04/19</td>
-		<td>Learning with Imbalanced Data&nbsp;</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-11-resampling-imbalanced-data/">Learning with Imbalanced Data</a>&nbsp;<a href="https://www.youtube.com/watch?v=Eix70D-H5ag&index=12&t=0s&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
 		<td></td>
 	</tr>
@@ -119,7 +119,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>8</td>
 		<td>03/11/19</td>
-		<td>TBD</td>
+		<td>Parameter tuning and Automatic Machine Learning</td>
 		<td></td>
 		<td></td>
 	</tr>
@@ -233,7 +233,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td></td>
 		<td>05/01/19</td>
-		<td>Parameter tuning and Automatic Machine Learning</td>
+		<td>TBD</td>
 		<td><br></td>
 		<td>HW 5 due</td>
 	</tr>
