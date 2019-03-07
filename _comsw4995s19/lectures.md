@@ -106,14 +106,14 @@ Press P on slides for presenter notes.
 		<td>7</td>
 		<td>03/04/19</td>
 		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-11-resampling-imbalanced-data/">Learning with Imbalanced Data</a>&nbsp;<a href="https://www.youtube.com/watch?v=Eix70D-H5ag&index=12&t=0s&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
-		<td>APM Ch16, <a href="https://www.jair.org/media/953/live-953-2037-jair.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
+		<td>APM Ch16, <a href="https://arxiv.org/pdf/1106.1813.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>03/06/19</td>
-        <td>Model Interpretration and Feature Selection</td>
-        <td></td>
+        <td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-12-interpretation-feature-selection/">Model Interpretration and Feature Selection</a>&nbsp;<a href="https://www.youtube.com/watch?v=EQQ5YQibXOI&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=12"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
+        <td><a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a>, <a href="https://explained.ai/rf-importance/index.html">Beware Default Random Forest Importances</a></td>
 		<td></td>
 	</tr>
 	<tr>
