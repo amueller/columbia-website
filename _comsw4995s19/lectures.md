@@ -119,8 +119,8 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>8</td>
 		<td>03/11/19</td>
-		<td>Parameter tuning and Automatic Machine Learning</td>
-		<td></td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-13-parameter-tuning-automl">Parameter tuning and Automatic Machine Learning</a>&nbsp;<a href="https://www.youtube.com/watch?v=tqtTHRwa8dE&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=13"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
+		<td><a href="https://www.automl.org/book/">AutoML book (chapter 1 gives a great intro)</a>, <a href="https://www.youtube.com/watch?v=0eBR8a4MQ30">NeurIPS tutorial video</a></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -147,11 +147,11 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>10</td>
 		<td>03/25/19</td>
-		<td>Dimensionality Reduction</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-14-dimensionality-reduction">Dimensionality Reduction</a>&nbsp;</td>
 		<td>IMLP Ch 3.4.1, 3.4.3, APM p35-40</td>
         <td></td>
 	</tr>
-    <tr>    
+    <tr>
 		<td></td>
 		<td>03/27/19</td>
 		<td>Clustering and mixture models
@@ -162,41 +162,39 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>11</td>
 		<td>04/01/19</td>
-		<td>Cluster evaluation
-		</td>
-		<td><a href="https://arxiv.org/abs/1007.1075">Clustering Stability, Sections 1 &amp; 2</a></td>
+		<td>NMF and Outlier Detection</td>
+		<td>IMLP 3.4.2</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>04/03/19</td>
-		<td>NMF and Outlier Detection</td>
-		<td>IMLP 3.4.2</td>
+		<td>Working with text data</td>
+		<td>IMLP Ch 7.1-7.8</td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>12</td>
 		<td>04/08/19</td>
-		<td>Working with text data
-		</td>
-		<td>IMLP Ch 7.1-7.8</td>
+		<td>Topic models for text data</td>
+		<td>IMLP Ch 7.9</td>
 		<td>HW 4 posted</td>
 	</tr>
 	<tr>
 		<td></td>
 		<td>04/10/19</td>
-		<td>Topic models for text data         
+		<td>Word and document embeddings
 		</td>
-		<td>IMLP Ch 7.9</td>
+		<td><a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">Mikolov 2013a</a>, <a href="http://www.aclweb.org/anthology/N13-1090">Mikolov 2013b</a>,
+        <a href="https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/word2vec.ipynb">gensim word2vec</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>13</td>
 		<td>04/15/19</td>
-		<td>Word and document embeddings
+		<td>More document embeddings
 		</td>
-		<td><a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">Mikolov 2013a</a>, <a href="http://www.aclweb.org/anthology/N13-1090">Mikolov 2013b</a>,
-        <a href="https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/word2vec.ipynb">gensim word2vec</a></td>
+		<td></td>
 		<td></td>
 	</tr>
 	<tr>
@@ -233,7 +231,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td></td>
 		<td>05/01/19</td>
-		<td>TBD</td>
+		<td>Recommender systems taught by Nicolas Hug</td>
 		<td><br></td>
 		<td>HW 5 due</td>
 	</tr>
