@@ -8,10 +8,11 @@ You can find issues that are of particular interest to me under [Andy's pets](ht
 in the process of drafting a full roadmap including long-term and short-term goals for the project.
 
 <h3>Automatic Machine Learning</h3>
-My current research revolves practical automatic machine learning.
+My current research revolves around practical automatic machine learning. I'm also collaborating with the team of OpenMl.
 
 
 <h3>dabl</h3>
+My group recently launched [dabl](https://github.com/amueller/dabl/), a tool for quick data exploration and simple automatic machine learning.
 
 
 <h2>Past Projects</h2>

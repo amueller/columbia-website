@@ -4,12 +4,11 @@ main:
     url: /courses/
   - title: "Team"
     url: /team/
-  - title: "Publications"
-    url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Personal Website"
-    url: https://amueller.github.io
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=8NTO5XIAAAAJ&hl=en
+
 
 comsw4995s18:
   - title: "COMS W4995"
