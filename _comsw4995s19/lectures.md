@@ -154,22 +154,21 @@ Press P on slides for presenter notes.
     <tr>
 		<td>15</td>
 		<td>Wed 03/27/19</td>
-		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-15-clustering-and-mixture-models">Clustering and mixture models</a>
-		</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-15-clustering-and-mixture-models">Clustering and mixture models</a>&nbsp;<a href="https://www.youtube.com/watch?v=q0QLdPphV00&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=15"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP 3.5</td>
 		<td>HW 3 due</td>
 	</tr>
 	<tr>
 		<td>16</td>
 		<td>Mon 04/01/19</td>
-		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-16-nmf-outlier-detection">NMF and Outlier Detection</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-16-nmf-outlier-detection">NMF and Outlier Detection</a>&nbsp;<a href="https://www.youtube.com/watch?v=DGvskrDu_FU&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=16&t=0s"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP 3.4.2</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>17</td>
 		<td>Wed 04/03/19</td>
-		<td>Working with text data</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-17-text-data">Working with text data</a>&nbsp;<a href="https://www.youtube.com/watch?v=MZ4pdf7Y6b8&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=18"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 7.1-7.8</td>
 		<td><br></td>
 	</tr>
