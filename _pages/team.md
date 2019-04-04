@@ -5,8 +5,8 @@ permalink: /team/
 <h2>Team</h2>
 
 <table style="font-size: 20px">
-<tr><td><img src="{{site.baseurl}}/assets/images/nicolas_hug.jpg" width="150px"></td><td><a href="http://nicolas-hug.com/">Nicolas Hug</a></td><td>Post-Doc, author of <a href="http://surpriselib.com/">surprise</a><br /> Scikit-learn and related projects</td></tr>
-<tr><td><img src="{{site.baseurl}}/assets/images/thomasfan.jpeg"  width="150px"></td><td><a href="https://www.thomasjpfan.com/">Thomas Fan</a></td><td>Software Developer, scikit-learn core developer<br /> Scikit-learn and related projects</td></tr>
+<tr><td><img src="{{site.baseurl}}/assets/images/nicolas_hug.jpg" width="150px"></td><td><a href="http://nicolas-hug.com/">Nicolas Hug</a></td><td>Post-Doc, author of <a href="http://surpriselib.com/">surprise</a><br />scikit-learn core developer,<br/> scikit-learn and related projects</td></tr>
+<tr><td><img src="{{site.baseurl}}/assets/images/thomasfan.jpeg"  width="150px"></td><td><a href="https://www.thomasjpfan.com/">Thomas Fan</a></td><td>Software Developer<br/> scikit-learn core developer<br /> scikit-learn and related projects</td></tr>
 </table>
 
 <h3>Previous team members</h3>
