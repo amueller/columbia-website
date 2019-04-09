@@ -175,7 +175,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>18</td>
 		<td>Mon 04/08/19</td>
-		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-18-topic-models">Topic models for text data</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-18-topic-models">Topic models for text data</a>&nbsp;<a href="https://www.youtube.com/watch?v=n07kxhB7bcU&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=19"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 7.9</td>
 		<td>HW 4 posted</td>
 	</tr>
