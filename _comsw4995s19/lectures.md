@@ -177,13 +177,13 @@ Press P on slides for presenter notes.
 		<td>Mon 04/08/19</td>
 		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-18-topic-models">Topic models for text data</a>&nbsp;<a href="https://www.youtube.com/watch?v=n07kxhB7bcU&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=19"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 7.9</td>
-		<td>HW 4 posted</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/homeworks/homework4-spring-2019.pdf">HW 4 posted</a></td>
 	</tr>
 	<tr>
 		<td>19</td>
 		<td>Wed 04/10/19</td>
-		<td>Word and document embeddings
-		</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-19-word-embeddings">Word and document embeddings</a>
+		<a href="https://www.youtube.com/watch?v=rUm98kgdz3c&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=20&t=0s"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td><a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">Mikolov 2013a</a>, <a href="http://www.aclweb.org/anthology/N13-1090">Mikolov 2013b</a>,
         <a href="https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/word2vec.ipynb">gensim word2vec</a></td>
 		<td></td>
@@ -191,31 +191,31 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>20</td>
 		<td>Mon 04/15/19</td>
-		<td>More document embeddings
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-20-neural-networks">Neural Networks</a>
 		</td>
-		<td></td>
+		<td>IMLP Ch 2.3.8, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>21</td>
 		<td>Wed 04/17/19</td>
-		<td>Neural Networks
+		<td>Neural networks in practice
 		</td>
-		<td>IMLP Ch 2.3.8, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
+		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a>, <a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a>, <a href="https://distill.pub/2017/feature-visualization/">Feature Visualization</a></td>
 		<td>HW 4 due,  HW 5 posted</td>
 	</tr>
 	<tr>
 		<td>22</td>
 		<td>Mon 04/22/19</td>
-		<td>Neural networks in practice
+		<td>Advanced Neural Networks
 		</td>
-		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a>, <a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a>, <a href="https://distill.pub/2017/feature-visualization/">Feature Visualization</a></td>
+		<td></td>
 		<td><br></td>
 	</tr>
 	<tr>
 		<td>23</td>
 		<td>Wed 04/24/19</td>
-		<td>Advanced Neural Networks
+		<td>TBD
 		</td>
 		<td></td>
 		<td><br></td>
