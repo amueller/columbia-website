@@ -176,7 +176,7 @@ Press P on slides for presenter notes.
 		<td>18</td>
 		<td>Mon 04/08/19</td>
 		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-18-topic-models">Topic models for text data</a>&nbsp;<a href="https://www.youtube.com/watch?v=n07kxhB7bcU&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=19"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
-		<td>IMLP Ch 7.9</td>
+		<td>IMLP Ch 7.9, <a href="https://www.youtube.com/watch?v=_R66X_udxZQ">Tim Hopper, Understanding Topic Models</a></td>
 		<td><a href="https://amueller.github.io/COMS4995-s19/homeworks/homework4-spring-2019.pdf">HW 4 posted</a></td>
 	</tr>
 	<tr>
@@ -192,22 +192,23 @@ Press P on slides for presenter notes.
 		<td>20</td>
 		<td>Mon 04/15/19</td>
 		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-20-neural-networks">Neural Networks</a>
-		</td>
+		<a href="https://www.youtube.com/watch?v=2xepWpEYDqc&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=21&t=0s"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 2.3.8, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>21</td>
 		<td>Wed 04/17/19</td>
-		<td>Neural networks in practice
-		</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-21-convolutional-nets">Keras and Convolutional Neural Nets</a>
+		<a href="https://www.youtube.com/watch?v=og0A4v8G8c0&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=22&t=0s"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a>, <a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a>, <a href="https://distill.pub/2017/feature-visualization/">Feature Visualization</a></td>
-		<td>HW 4 due,  HW 5 posted</td>
+		<td>HW 4 due,  <a href="https://amueller.github.io/COMS4995-s19/homeworks/homework5-spring-2019.pdf">HW 5 posted</a></td>
 	</tr>
 	<tr>
 		<td>22</td>
 		<td>Mon 04/22/19</td>
-		<td>Advanced Neural Networks
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-22-advanced-nets">Advanced Neural Networks</a>
+		<a href="https://www.youtube.com/watch?v=x-Gtuyfl4WM&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=23"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
 		</td>
 		<td></td>
 		<td><br></td>
@@ -215,7 +216,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>23</td>
 		<td>Wed 04/24/19</td>
-		<td>TBD
+		<td>Time series data
 		</td>
 		<td></td>
 		<td><br></td>
@@ -223,7 +224,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>24</td>
 		<td>Mon 04/29/19</td>
-		<td>Time series data</td>
+		<td>Summary and Recap</td>
 		<td><br></td>
 		<td></td>
 	</tr>
