@@ -216,7 +216,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>23</td>
 		<td>Wed 04/24/19</td>
-		<td>Time series data
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-23-time-series">Time series data</a>
 		</td>
 		<td></td>
 		<td><br></td>
