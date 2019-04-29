@@ -216,7 +216,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>23</td>
 		<td>Wed 04/24/19</td>
-		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-23-time-series">Time series data</a>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-23-time-series">Time series data</a>&nbsp;<a href="https://www.youtube.com/watch?v=d34aLzKP0rY&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=24"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
 		</td>
 		<td></td>
 		<td><br></td>
@@ -224,7 +224,7 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>24</td>
 		<td>Mon 04/29/19</td>
-		<td>Summary and Recap</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-24-recap">Summary and Recap</a></td>
 		<td><br></td>
 		<td></td>
 	</tr>
