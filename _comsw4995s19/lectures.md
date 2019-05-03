@@ -224,14 +224,14 @@ Press P on slides for presenter notes.
 	<tr>
 		<td>24</td>
 		<td>Mon 04/29/19</td>
-		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-24-recap">Summary and Recap</a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-24-recap">Summary and Recap</a>&nbsp;<a href="https://www.youtube.com/watch?v=0WYsSl8Xa1g&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=25"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td><br></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>25</td>
 		<td>Wed 05/01/19</td>
-		<td>Recommender systems taught by Nicolas Hug</td>
+		<td><a href="https://amueller.github.io/COMS4995-s19/slides/aml-25-recommender-systems">Recommender systems taught by Nicolas Hug</a>&nbsp;<a href="https://www.youtube.com/watch?v=FDzIafdbTVw&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA&index=26"><i class="fa fa-youtube-play" aria-hidden="true"></i></a></td>
 		<td><br></td>
 		<td>HW 5 due</td>
 	</tr>
