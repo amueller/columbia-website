@@ -1,6 +1,9 @@
 <script type="text/javascript">
   var _gaq = _gaq || [];
   _gaq.push(['_setAccount', '{{ site.analytics.google.tracking_id }}']);
+  {% if site.analytics.google.anonymize_ip == true %}
+    _gaq.push(['_gat._anonymizeIp']);
+  {% endif %}
   _gaq.push(['_trackPageview']);
 
   (function() {
@@ -9,18 +12,3 @@
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-<script>
-/**
-* Function that tracks a click on an outbound link in Analytics.
-* This function takes a valid URL string as an argument, and uses that URL string
-* as the event label. Setting the transport method to 'beacon' lets the hit be sent
-* using 'navigator.sendBeacon' in browser that support it.
-*/
-var trackOutboundLink = function(url) {
-   ga('send', 'event', 'outbound', 'click', url, {
-     'transport': 'beacon',
-     'hitCallback': function(){document.location = url;}
-   });
-}
-</script>
-
