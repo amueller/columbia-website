@@ -7,7 +7,7 @@ sidebar:
   nav: "comsw4995s19"
 ---
 
-Press P on slides for presenter notes (or add #p1 to the url if you're on mobile or click on <i class="fas fa-comment-dots"></i></a>).
+Press P on slides for presenter notes (or add #p1 to the url if you're on mobile or click on <i class="fas fa-comment-dots"></i>).
 
 <div class="schedule">
 <table cellspacing="0" border="0">
