@@ -297,3 +297,10 @@ defaults:
     values:
       sidevar:
         nav: "comsw4995s19"
+  # _comsw4995s20
+  - scope:
+      path: ""
+      type: comsw4995s20
+    values:
+      sidevar:
+        nav: "comsw4995s20"

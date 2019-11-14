@@ -41,3 +41,17 @@ comsw4995s19:
       - title: "GitHub"
         url: https://github.com/amueller/COMS4995-s19
 
+comsw4995s20:
+  - title: "COMS W4995"
+    children:
+      - title: "Overview"
+        url: /comsw4995s20/
+      - title: "Schedule"
+        url: /comsw4995s20/schedule/
+      - title: "Piazza"
+        url: https://piazza.com/
+      - title: "Courseworks"
+        url: https://courseworks2.columbia.edu/courses/
+      - title: "GitHub"
+        url: https://github.com/amueller/COMS4995-s20
+
