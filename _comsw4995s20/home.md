@@ -1,9 +1,9 @@
 ---
 title: "COMS W4995 Applied Machine Learning Spring 2019"
-permalink: /comsw4995s19/
+permalink: /comsw4995s20/
 author_profile: false
 sidebar:
-  nav: "comsw4995s19"
+  nav: "comsw4995s20"
 ---
 
 - **Time**: Monday/Wednesday 1:10pm - 2:25pm 

@@ -143,6 +143,7 @@ include:
   - _pages
   - _comsw4995s18
   - _comsw4995s19
+  - _comsw4995s20
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
