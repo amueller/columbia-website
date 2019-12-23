@@ -17,7 +17,8 @@ sidebar:
 MS DS students can enroll via SSOL. External students need to follow the <a href="http://datascience.columbia.edu/course-inventory">
 Cross-Registration Instructions</a> provided by DSI.
 The course will be restricted during early registration for just DSI students.
-If there is space, we will open up the course to non-DSI students in January.
+If there is space, we will open up the waiting list to non-DSI students on
+January 14th.
 
 ### Auditing Applied Machine Learning
 If you are not able to enroll in the course or would like to audit for other
