@@ -20,6 +20,14 @@ The course will be restricted during early registration for just DSI students.
 If there is space, we will open up the waiting list to non-DSI students on
 January 14th.
 
+#### Waiting list
+Undergraduate and Master students not in the DSI program will be admitted from
+the waiting list in order of position on the waiting list. Right now there are
+about 90 students on the waiting list for currently 6 open spaces. If you're in
+an undergraduate or Master program, please don't email the instructor about
+admission to the class.
+ 
+
 ### Auditing Applied Machine Learning
 If you are not able to enroll in the course or would like to audit for other
 reasons, anyone interested will be added to the coursework and piazza

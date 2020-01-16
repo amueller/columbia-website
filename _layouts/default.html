@@ -20,7 +20,7 @@
     {% include_cached masthead.html %}
 
     <div class="initial-content">
-      {{ content }}
+        {% include anchor_headings.html html=content anchorBody="#" anchorClass="anchor" %}
     </div>
 
     {% if site.search == true %}
