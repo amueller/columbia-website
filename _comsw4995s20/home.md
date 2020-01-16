@@ -23,9 +23,9 @@ January 14th.
 #### Waiting list
 Undergraduate and Master students not in the DSI program will be admitted from
 the waiting list in order of position on the waiting list. Right now there are
-about 90 students on the waiting list for currently 6 open spaces. If you're in
-an undergraduate or Master program, please don't email the instructor about
-admission to the class.
+about 90 students on the waiting list for currently 6 open spacesi (though more
+might open up). If you're in an undergraduate or Master program, please don't
+email the instructor about admission to the class.
  
 
 ### Auditing Applied Machine Learning
