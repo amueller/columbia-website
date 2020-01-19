@@ -26,6 +26,15 @@ the waiting list in order of position on the waiting list. Right now there are
 about 90 students on the waiting list for currently 6 open spacesi (though more
 might open up). If you're in an undergraduate or Master program, please don't
 email the instructor about admission to the class.
+
+
+### Auditing the class
+If you are not able to enroll in the class, it's possible to audit the class
+(without showing up on your transcript - official audit credit requires enrollment).
+Once the class starts, you can email a CA to be added to courseworks to join
+the conversations. All the material will be posted publicly.
+If you are auditing the class, please *do not* submit any homework or sit
+in on exams. Homework submitted by auditing students will not be graded.
  
 
 ### Auditing Applied Machine Learning
