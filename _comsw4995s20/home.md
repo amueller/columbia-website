@@ -28,20 +28,12 @@ might open up). If you're in an undergraduate or Master program, please don't
 email the instructor about admission to the class.
 
 
-### Auditing the class
-If you are not able to enroll in the class, it's possible to audit the class
-(without showing up on your transcript - official audit credit requires enrollment).
-Once the class starts, you can email a CA to be added to courseworks to join
-the conversations. All the material will be posted publicly.
-If you are auditing the class, please *do not* submit any homework or sit
-in on exams. Homework submitted by auditing students will not be graded.
- 
-
-### Auditing Applied Machine Learning
+#### Auditing Applied Machine Learning
 If you are not able to enroll in the course or would like to audit for other
-reasons, anyone interested will be added to the coursework and piazza
-platforms. Please email a CA to get yourself added. If you are auditing, your
-exams and homework will not be graded.
+reasons, anyone interested can get acces to the coursework and piazza
+platforms. Please email a CA to get yourself added once the class started. If
+you are auditing, your exams and homework will not be graded, and the class
+will not be included in your transcript.
 
 ### Description
 This class offers a hands-on approach to machine learning and data science. The
