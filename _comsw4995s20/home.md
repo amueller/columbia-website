@@ -1,5 +1,5 @@
 ---
-title: "COMS W4995 Applied Machine Learning Spring 2019"
+title: "COMS W4995 Applied Machine Learning Spring 2020"
 permalink: /comsw4995s20/
 author_profile: false
 sidebar:
@@ -7,11 +7,16 @@ sidebar:
 ---
 
 - **Time**: Monday/Wednesday 1:10pm - 2:25pm 
-- **Location**: tbd
+- **Location**: 417 International Affairs Building
 - **Instuctor**: Andreas C. Müller
-- **Office hours**: tbd
+- **Office hours**: Thursdays, 10am-12pm, Interchurch 320K
 - **Course Assistants**:
-    - tbd
+    - Subham Agrawal sa3762
+    - Deka Auliya Akbar da2897
+    - Satvik Jain sj2995
+    - Hritik Jain hj2533
+    - Kartik Parnami kp2844
+    - Neelam Patodia np2723
 
 ### Enrollment
 MS DS students can enroll via SSOL. External students need to follow the <a href="http://datascience.columbia.edu/course-inventory">
@@ -27,13 +32,18 @@ about 90 students on the waiting list for currently 6 open spacesi (though more
 might open up). If you're in an undergraduate or Master program, please don't
 email the instructor about admission to the class.
 
-
 #### Auditing Applied Machine Learning
 If you are not able to enroll in the course or would like to audit for other
 reasons, anyone interested can get acces to the coursework and piazza
 platforms. Please email a CA to get yourself added once the class started. If
 you are auditing, your exams and homework will not be graded, and the class
 will not be included in your transcript.
+
+### Recordings
+Each lecture will be recorded and posted on Youtube. While it is suggested to
+attend the lectures in person, it's not required.
+Please be aware that the lecture audio might capture questions asked during the
+lecture.
 
 ### Description
 This class offers a hands-on approach to machine learning and data science. The
