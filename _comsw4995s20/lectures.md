@@ -34,19 +34,17 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>2</td>
 		<td>Mon 01/27/20</td>
-		<td><a href="#">git, GitHub and testing</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>&nbsp;
-		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
-		<td><a href="http://rogerdudler.github.io/git-guide/">Git - the simple guide</a>, <a href="https://www.youtube.com/watch?v=1ffBJ4sVUb4">git for ages 4 and up</a></td>
+		<td><a href="#">matplotlib and visualization</a>
+		<a href="#"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
 		<td>HW 1 posted</td>
 	</tr>
 	<tr>
 		<td>3<br></td>
 		<td>Wed 01/29/20</td>
-		<td><a href="#">matplotlib and visualization</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
-		<td><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
+		<td>No class</td>
+		<td></td>
 		<td><br></td>
 	</tr>
 	<tr>
@@ -116,7 +114,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td></td>
 		<td>Wed 02/26/20</td>
-		<td>TBD
+		<td>No class
 			</td>
 		<td></td>
 		<td></td>
