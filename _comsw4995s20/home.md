@@ -30,6 +30,9 @@ January 14th.
 Undergraduate and Master students not in the DSI program will be admitted from
 the waiting list in order of position on the waiting list. 
 The class has been extended to 225 students to accommodate the demand.
+If you are an undergraduate or master student, please don't reach out to the
+instructor to be let into the class. Students will be enrolled based on their
+place on the waiting list if spaces become available.
 
 #### Auditing Applied Machine Learning
 If you are not able to enroll in the course or would like to audit for other
