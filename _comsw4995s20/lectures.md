@@ -36,9 +36,9 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>Mon 01/27/20</td>
 		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-02-matplotlib">matplotlib and visualization</a>
 		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-02-matplotlib"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="https://www.youtube.com/watch?v=O2zXpQmij_c&list=PL_pVmAaAnxIQGzQS2oI3OWEPT-dpmwTfA"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		&nbsp;<a href="https://youtu.be/OW3oco7nlV4"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
-		<td>HW 1 posted</td>
+		<td><a href="https://github.com/amueller/COMS4995-s20/raw/master/homework/homework1-spring-2020.pdf">HW 1 posted</a></td>
 	</tr>
 	<tr>
 		<td>3<br></td>
