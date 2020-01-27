@@ -27,7 +27,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>Wed 01/22/20</td>
 		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-01-introduction/">Introduction</a>
 		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-01-introduction/#p1"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		&nbsp;<a href="https://www.youtube.com/watch?v=rbvpiPJuK64&list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 1, APM Ch 1-2</td>
 		<td><br></td>
 	</tr>
