@@ -35,7 +35,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>2</td>
 		<td>Mon 01/27/20</td>
 		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-02-matplotlib">matplotlib and visualization</a>
-		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-02-matplotlib"><i class="fas fa-comment-dots"></i></a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-02-matplotlib#p1"><i class="fas fa-comment-dots"></i></a>
 		&nbsp;<a href="https://youtu.be/OW3oco7nlV4"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td><a href="https://serialmentor.com/dataviz/">Fundamentals of Data Visualization</a>, <a href="https://ora.ox.ac.uk/objects/uuid:b98ccce1-038f-4c0a-a259-7f53dfe06ac7">Systematising Glyph Design for Visualization</a> (Chapter 2)</td>
 		<td><a href="https://github.com/amueller/COMS4995-s20/raw/master/homework/homework1-spring-2020.pdf">HW 1 posted</a></td>
@@ -50,8 +50,8 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>4</td>
 		<td>Mon 02/03/20</td>
-		<td><a href="#">Introduction to supervised learning</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>&nbsp;
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-03-supervised-learning">Supervised learning, model complexity and model validation</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-03-supervised-learning#p1"><i class="fas fa-comment-dots"></i></a>&nbsp;
 		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
         </td>
 		<td>IMLP Ch2.1-2.3.2, APM Ch 4-4.3, IMLP Ch 5.1, 5.2, APM Ch 4.4-4.8</td>

@@ -13,9 +13,11 @@ sidebar:
 - **Course Assistants**:
     - Subham Agrawal sa3762 Wednesday 3pm-5pm
     - Deka Auliya Akbar da2897 Thursday 10am-12pm
+    - Ishaan Arora ia2419 Thursdays 3:40pm-5:40pm
     - Ritesh Baldva rb3447 Monday 11am-1pm
     - Satvik Jain sj2995 Friday 4pm-6pm
     - Hritik Jain hj2533 Wednesday 5pm-7pm
+    - Amogh Mishra am5323 Fridays 7pm-9pm
     - Kartik Parnami kp2844 Monday 7pm-9pm
     - Neelam Patodia np2723 Tuesday 7pm-9pm
 
