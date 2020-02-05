@@ -41,34 +41,34 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td><a href="https://github.com/amueller/COMS4995-s20/raw/master/homework/homework1-spring-2020.pdf">HW 1 posted</a></td>
 	</tr>
 	<tr>
-		<td>3<br></td>
+		<td><br></td>
 		<td>Wed 01/29/20</td>
 		<td>No class</td>
 		<td></td>
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>4</td>
+		<td>3</td>
 		<td>Mon 02/03/20</td>
 		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-03-supervised-learning">Supervised learning, model complexity and model validation</a>
 		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-03-supervised-learning#p1"><i class="fas fa-comment-dots"></i></a>&nbsp;
-		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+		<a href="https://www.youtube.com/watch?v=7_YzyMYC2zM"><i class="fab fa-youtube" aria-hidden="true"></i></a>
         </td>
 		<td>IMLP Ch2.1-2.3.2, APM Ch 4-4.3, IMLP Ch 5.1, 5.2, APM Ch 4.4-4.8</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>5<br></td>
+		<td>4<br></td>
 		<td>Wed 02/05/20</td>
-		<td><a href="#">Preprocessing</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-04-preprocessing">Preprocessing</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-04-preprocessing#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://www.youtube.com/watch?v=XpOBSaktb6s"><i class="fab fa-youtube" aria-hidden="true"></i></a>
         </td>
 		<td>IMLP Ch 3.3, IMLP Ch 4.1-4.6, APM Ch 3,</td>
 		<td>HW 1 due, HW 2 posted</td>
 	</tr>
 	<tr>
-		<td>6</td>
+		<td>5</td>
 		<td>Mon 02/10/20</td>
 		<td><a href="#">Linear models for Regression</a> <a href="#"><i class="fas fa-comment-dots"></i></a>
 		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
@@ -76,7 +76,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>7</td>
+		<td>6</td>
 		<td>Wed 02/12/20</td>
 		<td><a href="#">Linear models for Classification, SVMs</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -85,7 +85,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>8</td>
+		<td>7</td>
 		<td>Mon 02/17/20</td>
 		<td><a href="#">Trees, Forests &amp; Ensembles</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -94,7 +94,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>9<br></td>
+		<td>8<br></td>
 		<td>Wed 02/19/20</td>
 		<td><a href="#">Gradient Boosting, Calibration</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -103,7 +103,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>HW 2 due</td>
 	</tr>
 	<tr>
-		<td>10</td>
+		<td>9</td>
 		<td>Mon 02/24/20</td>
 		<td><a href="#">Model Evaluation</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -120,7 +120,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>11</td>
+		<td>10</td>
 		<td>Mon 03/02/20</td>
 		<td><a href="#">Learning with Imbalanced Data</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -129,7 +129,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td>11</td>
 		<td>Wed 03/04/20</td>
         <td><a href="#">Model Interpretration and Feature Selection</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -138,7 +138,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>13</td>
+		<td>12</td>
 		<td>Mon 03/09/20</td>
 		<td><a href="#">Parameter tuning and Automatic Machine Learning</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -168,7 +168,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>14</td>
+		<td>13</td>
 		<td>Mon 03/23/20</td>
 		<td><a href="#">Dimensionality Reduction</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -177,7 +177,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
         <td></td>
 	</tr>
     <tr>
-		<td>15</td>
+		<td>14</td>
 		<td>Wed 03/25/20</td>
 		<td><a href="#">Clustering and mixture models</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -186,7 +186,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>HW 3 due</td>
 	</tr>
 	<tr>
-		<td>16</td>
+		<td>15</td>
 		<td>Mon 03/30/20</td>
 		<td><a href="#">NMF and Outlier Detection</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -195,7 +195,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>17</td>
+		<td>16</td>
 		<td>Wed 04/01/20</td>
 		<td><a href="#">Working with text data</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -204,7 +204,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>18</td>
+		<td>17</td>
 		<td>Mon 04/06/20</td>
 		<td><a href="#">Topic models for text data</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -213,7 +213,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>HW 4 posted</td>
 	</tr>
 	<tr>
-		<td>19</td>
+		<td>18</td>
 		<td>Wed 04/08/20</td>
 		<td><a href="#">Word and document embeddings</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -223,7 +223,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>20</td>
+		<td>19</td>
 		<td>Mon 04/13/20</td>
 		<td><a href="#">Neural Networks</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -232,7 +232,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>21</td>
+		<td>20</td>
 		<td>Wed 04/15/20</td>
 		<td><a href="#">Keras and Convolutional Neural Nets</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -241,7 +241,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>HW 4 due,  HW 5 posted</td>
 	</tr>
 	<tr>
-		<td>22</td>
+		<td>21</td>
 		<td>Mon 04/20/20</td>
 		<td><a href="#">Advanced Neural Networks</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -251,7 +251,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>23</td>
+		<td>22</td>
 		<td>Wed 04/22/20</td>
 		<td><a href="#">Time series data</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -261,7 +261,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>24</td>
+		<td>23</td>
 		<td>Mon 04/27/20</td>
 		<td><a href="#">Summary and Recap</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
@@ -270,7 +270,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>25</td>
+		<td>24</td>
 		<td>Wed 04/29/20</td>
 		<td><a href="#">Recommender systems taught by Nicolas Hug</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
