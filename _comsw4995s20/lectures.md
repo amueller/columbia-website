@@ -65,31 +65,31 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		&nbsp;<a href="https://www.youtube.com/watch?v=XpOBSaktb6s"><i class="fab fa-youtube" aria-hidden="true"></i></a>
         </td>
 		<td>IMLP Ch 3.3, IMLP Ch 4.1-4.6, APM Ch 3,</td>
-		<td>HW 1 due, HW 2 posted</td>
+		<td>HW 1 due, <a href="https://github.com/amueller/COMS4995-s20/raw/master/homework/homework2-aml-2020.pdf">HW 2 posted</a></td>
 	</tr>
 	<tr>
 		<td>5</td>
 		<td>Mon 02/10/20</td>
-		<td><a href="#">Linear models for Regression</a> <a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-05-linear-models-regression#">Linear models for Regression</a> <a href="https://amueller.github.io/COMS4995-s20/slides/aml-05-linear-models-regression#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://youtu.be/-OOsfj5Revo#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP p45-68, APM Ch 6</td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>6</td>
 		<td>Wed 02/12/20</td>
-		<td><a href="#">Linear models for Classification, SVMs</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-06-linear-models-classification#">Linear models for Classification, SVMs</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-06-linear-models-classification#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://youtu.be/_dqBhUrq09U#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>Mon 02/17/20</td>
-		<td><a href="#">Trees, Forests &amp; Ensembles</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-07-trees-forests">Trees, Forests &amp; Ensembles</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-07-trees-forests#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://www.youtube.com/watch?v=nomd5ylZ2dw&lc=z22qvxq4yzudz3ewh04t1aokgw14zshrao4wjnjrxq3brk0h00410#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP 2.3.5, 2.3.6, APM Ch 14.1-14.4</td>
 		<td></td>
 	</tr>

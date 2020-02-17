@@ -16,11 +16,12 @@ sidebar:
     - Ishaan Arora ia2419 Thursdays 3:40pm-5:40pm
     - Ritesh Baldva rb3447 Monday 11am-1pm
     - Satvik Jain sj2995 Friday 4pm-6pm
-    - Hritik Jain hj2533 Wednesday 5pm-7pm
+    - Hritik Jain hj2533 Truesday 2pm-4pm
     - Amogh Mishra am5323 Fridays 7pm-9pm
     - Kumari Nishu kn2492 Thursdays 1:30pm-3:30pm
     - Kartik Parnami kp2844 Monday 7pm-9pm
     - Neelam Patodia np2723 Thursday 7pm-9pm
+    - Jiayin Yang jy3016 Tuesday 2pm-4pm
 
 ### Enrollment
 MS DS students can enroll via SSOL. External students need to follow the <a href="http://datascience.columbia.edu/course-inventory">
