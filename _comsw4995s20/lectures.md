@@ -96,9 +96,9 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>8<br></td>
 		<td>Wed 02/19/20</td>
-		<td><a href="#">Gradient Boosting, Calibration</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-08-gradient-boosting#">Gradient Descent, Gradient Boosting</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-08-gradient-boosting#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://www.youtube.com/watch?v=yrTW5YTmFjw&lc=z22odddywkr2dhax104t1aokg0t42atq2fw3cby3w15abk0h00410"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP 2.3.6, APM Ch 14.5</td>
 		<td>HW 2 due</td>
 	</tr>
