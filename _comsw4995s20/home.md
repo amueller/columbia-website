@@ -86,8 +86,8 @@ Everything that is on the slides or on the notes to the slides is up for
 testing.  There might be some minor coding, but mostly conceptual questions and
 multiple choice.
 
-The syntax of git and the python libraries that were covered in class (as far
-as they were covered) will be content of the exam.
+The general syntax of the libraries that are discussed in class is up for testing,
+but the point is not to memorize all functions and arguments.
 
 
 ## Academic rules of conduct

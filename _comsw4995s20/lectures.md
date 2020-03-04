@@ -105,11 +105,11 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>9</td>
 		<td>Mon 02/24/20</td>
-		<td><a href="#">Model Evaluation</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-09-model-evaluation#">Model Evaluation</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-09-model-evaluation#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://youtu.be/trg3YkCsjqE#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP 5.3, APM Ch 16</td>
-		<td>HW 3 posted</td>
+		<td><a href="https://github.com/amueller/COMS4995-s20/raw/master/homework/homework3-aml-2020.pdf">HW 3 posted</a></td>
 	</tr>
 	<tr>
 		<td></td>
@@ -122,19 +122,19 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>10</td>
 		<td>Mon 03/02/20</td>
-		<td><a href="#">Learning with Imbalanced Data</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-10-calibration-imbalanced-data">Calibration, Imbalanced Data</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-10-calibration-imbalanced-data#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://www.youtube.com/watch?v=w3OPq0V8fr8#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>APM Ch16, <a href="https://arxiv.org/pdf/1106.1813.pdf">SMOTE</a>, <a href="http://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/tsmcb09.pdf">Easy Ensembles</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>11</td>
 		<td>Wed 03/04/20</td>
-        <td><a href="#">Model Interpretration and Feature Selection</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
-        <td><a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a>, <a href="https://explained.ai/rf-importance/index.html">Beware Default Random Forest Importances</a></td>
+        <td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-11-interpretation-feature-selection">Model Interpretration and Feature Selection</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-11-interpretation-feature-selection#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://youtu.be/FDhyS6Xjxa8#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+        <td><a href="https://christophm.github.io/interpretable-ml-book/">Interpretable Machine Learning</a>, <a href="https://compstat-lmu.github.io/iml_methods_limitations/">Limitations of Interpretable Machine Learning</a></td>
 		<td></td>
 	</tr>
 	<tr>
