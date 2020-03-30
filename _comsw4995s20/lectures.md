@@ -166,44 +166,50 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>12</td>
+		<td></td>
 		<td>Mon 03/23/20</td>
-		<td><a href="#">Parameter tuning and Automatic Machine Learning</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		&nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><font color="#666666">Class suspended</font></td>
+		<td><br></td>
+		<td><br></td>
+
+	</tr>
+	<tr>
+		<td></td>
+		<td>Wed 03/25/20</td>
+		<td><font color="#666666">Class suspended</font></td>
+		<td><br></td>
+		<td><br></td>
+	</tr>
+    <tr>
+		<td>12</td>
+		<td>Mon 03/30/20</td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-12-parameter-tuning-automl">Parameter tuning and Automatic Machine Learning</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-12-parameter-tuning-automl#p1"><i class="fas fa-comment-dots"></i></a>
+		&nbsp;<a href="https://www.youtube.com/watch?v=bmBezdqHTAg#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td><a href="https://www.automl.org/book/">AutoML book (chapter 1 gives a great intro)</a>, <a href="https://www.youtube.com/watch?v=0eBR8a4MQ30">NeurIPS tutorial video</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>13</td>
-		<td>Mon 03/25/20</td>
+		<td>Wed 04/01/20</td>
 		<td><a href="#">Dimensionality Reduction</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
 		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 3.4.1, 3.4.3, APM p35-40</td>
-        <td></td>
+        <td>HW 3 due</td>
 	</tr>
-    <tr>
+	<tr>
 		<td>14</td>
-		<td>Wed 03/30/20</td>
+		<td>Mon 04/06/20</td>
 		<td><a href="#">Clustering and mixture models</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
 		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP 3.5</td>
-		<td>HW 3 due</td>
-	</tr>
-	<tr>
-		<td>15</td>
-		<td>Mon 04/01/20</td>
-		<td><a href="#">NMF and Outlier Detection</a>
-		 <a href="#"><i class="fas fa-comment-dots"></i></a>
-		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
-		<td>IMLP 3.4.2</td>
 		<td></td>
 	</tr>
 	<tr>
-		<td>16</td>
-		<td>Wed 04/06/20</td>
+		<td>15</td>
+		<td>Wed 04/08/20</td>
 		<td><a href="#">Working with text data</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
 		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
@@ -211,8 +217,8 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>17</td>
-		<td>Mon 04/08/20</td>
+		<td>16</td>
+		<td>Mon 04/13/20</td>
 		<td><a href="#">Topic models for text data</a>
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
 		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
@@ -220,8 +226,8 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>HW 4 posted</td>
 	</tr>
 	<tr>
-		<td>18</td>
-		<td>Wed 04/13/20</td>
+		<td>19</td>
+		<td>Wed 04/15/20</td>
 		<td><a href="#">Word and document embeddings</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
 		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
@@ -230,8 +236,8 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>19</td>
-		<td>Mon 04/15/20</td>
+		<td>18</td>
+		<td>Mon 04/20/20</td>
 		<td><a href="#">Neural Networks</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
 		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
@@ -239,8 +245,8 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td></td>
 	</tr>
 	<tr>
-		<td>20</td>
-		<td>Wed 04/20/20</td>
+		<td>19</td>
+		<td>Wed 04/22/20</td>
 		<td><a href="#">Keras and Convolutional Neural Nets</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
 		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
@@ -248,8 +254,8 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td>HW 4 due,  HW 5 posted</td>
 	</tr>
 	<tr>
-		<td>21</td>
-		<td>Mon 04/22/20</td>
+		<td>20</td>
+		<td>Mon 04/27/20</td>
 		<td><a href="#">Advanced Neural Networks</a>
 		<a href="#"><i class="fas fa-comment-dots"></i></a>
 		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
@@ -258,23 +264,13 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		<td><br></td>
 	</tr>
 	<tr>
-		<td>22</td>
-		<td>Wed 04/27/20</td>
-		<td><a href="#">Time series data</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
+		<td>21</td>
+		<td>Wed 04/29/20</td>
+		<td><a href="#">Time series data</a><a href="#"><i class="fas fa-comment-dots"></i></a>
 		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
 		</td>
 		<td></td>
-		<td><br></td>
-	</tr>
-	<tr>
-		<td>23</td>
-		<td>Mon 04/29/20</td>
-		<td><a href="#">Summary and Recap</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
-		<td><br></td>
-		<td></td>
+		<td>HW 5 due</td>
 	</tr>
 	<tr>
 		<td></td>
