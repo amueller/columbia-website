@@ -192,18 +192,18 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>13</td>
 		<td>Wed 04/01/20</td>
-		<td><a href="#">Dimensionality Reduction</a>
-		 <a href="#"><i class="fas fa-comment-dots"></i></a>
-		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-13-dimensionality-reduction/">Dimensionality Reduction</a>
+		 <a href="https://amueller.github.io/COMS4995-s20/slides/aml-13-dimensionality-reduction/#p1"><i class="fas fa-comment-dots"></i></a>
+		 &nbsp;<a href="https://youtu.be/CrFOGyU32PM#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 3.4.1, 3.4.3, APM p35-40</td>
         <td>HW 3 due</td>
 	</tr>
 	<tr>
 		<td>14</td>
 		<td>Mon 04/06/20</td>
-		<td><a href="#">Clustering and mixture models</a>
-		 <a href="#"><i class="fas fa-comment-dots"></i></a>
-		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-14-clustering-mixture-models/#">Clustering and mixture models</a>
+		 <a href="https://amueller.github.io/COMS4995-s20/slides/aml-14-clustering-mixture-models/#p1"><i class="fas fa-comment-dots"></i></a>
+		 &nbsp;<a href="https://www.youtube.com/watch?v=HFioJ62H7dM#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP 3.5</td>
 		<td></td>
 	</tr>
