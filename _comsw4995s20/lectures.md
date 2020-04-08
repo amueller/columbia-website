@@ -210,9 +210,9 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>15</td>
 		<td>Wed 04/08/20</td>
-		<td><a href="#">Working with text data</a>
-		 <a href="#"><i class="fas fa-comment-dots"></i></a>
-		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-15-text-data/#">Working with text data</a>
+		 <a href="https://amueller.github.io/COMS4995-s20/slides/aml-15-text-data/#p1"><i class="fas fa-comment-dots"></i></a>
+		 &nbsp;<a href="https://youtu.be/A8yDjNsUQJA"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 7.1-7.8</td>
 		<td><br></td>
 	</tr>
