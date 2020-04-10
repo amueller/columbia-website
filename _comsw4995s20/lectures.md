@@ -223,7 +223,7 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 		 <a href="#"><i class="fas fa-comment-dots"></i></a>
 		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 7.9, <a href="https://www.youtube.com/watch?v=_R66X_udxZQ">Tim Hopper, Understanding Topic Models</a></td>
-		<td>HW 4 posted</td>
+		<td><a href="https://github.com/amueller/COMS4995-s20/raw/master/homework/homework4-aml-2020.pdf">HW 4 posted</a></td>
 	</tr>
 	<tr>
 		<td>19</td>
