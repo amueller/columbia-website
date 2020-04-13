@@ -219,9 +219,9 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>16</td>
 		<td>Mon 04/13/20</td>
-		<td><a href="#">Topic models for text data</a>
-		 <a href="#"><i class="fas fa-comment-dots"></i></a>
-		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-16-topic-models/#">Topic models for text data</a>
+		 <a href="https://amueller.github.io/COMS4995-s20/slides/aml-16-topic-models/#p1"><i class="fas fa-comment-dots"></i></a>
+		 &nbsp;<a href="https://youtu.be/xdmFx4-3Ukw"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 7.9, <a href="https://www.youtube.com/watch?v=_R66X_udxZQ">Tim Hopper, Understanding Topic Models</a></td>
 		<td><a href="https://github.com/amueller/COMS4995-s20/raw/master/homework/homework4-aml-2020.pdf">HW 4 posted</a></td>
 	</tr>
