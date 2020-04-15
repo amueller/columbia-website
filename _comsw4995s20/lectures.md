@@ -228,9 +228,9 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>19</td>
 		<td>Wed 04/15/20</td>
-		<td><a href="#">Word and document embeddings</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-17-word-embeddings/">Word and document embeddings</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-17-word-embeddings/#p1"><i class="fas fa-comment-dots"></i></a>
+		<a href="https://youtu.be/xgjnlGBpLUs"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td><a href="https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf">Mikolov 2013a</a>, <a href="http://www.aclweb.org/anthology/N13-1090">Mikolov 2013b</a>,
         <a href="https://github.com/RaRe-Technologies/gensim/blob/develop/docs/notebooks/word2vec.ipynb">gensim word2vec</a></td>
 		<td></td>
