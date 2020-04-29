@@ -11,7 +11,7 @@ sidebar:
 - **Instuctor**: Andreas C. Müller
 - **Office hours**: Monday, 10am-12pm, Interchurch 320K
 - **Course Assistants**:
-    - Subham Agrawal sa3762 Wednesday 3pm-5pm
+    - Shubham Agrawal sa3762 Wednesday 3pm-5pm
     - Deka Auliya Akbar da2897 Thursday 10am-12pm
     - Ishaan Arora ia2419 Thursdays 3:40pm-5:40pm
     - Ritesh Baldva rb3447 Monday 11am-1pm

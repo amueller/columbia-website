@@ -238,27 +238,27 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>18</td>
 		<td>Mon 04/20/20</td>
-		<td><a href="#">Neural Networks</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-18-neural-networks/#">Neural Networks</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-18-neural-networks/#p1"><i class="fas fa-comment-dots"></i></a>
+		<a href="https://youtu.be/CRRPLlgYWZw#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td>IMLP Ch 2.3.8, <a href="http://www.deeplearningbook.org/contents/mlp.html">DL Ch 6</a>, <a href="http://www.deeplearningbook.org/contents/regularization.html">Ch 7.8</a></td>
 		<td></td>
 	</tr>
 	<tr>
 		<td>19</td>
 		<td>Wed 04/22/20</td>
-		<td><a href="#">Keras and Convolutional Neural Nets</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-19-convolutional-nets/#">Keras and Convolutional Neural Nets</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-19-convolutional-nets/#p1"><i class="fas fa-comment-dots"></i></a>
+		<a href="https://youtu.be/PP7Hr3tGbIo#"><i class="fab fa-youtube" aria-hidden="true"></i></a></td>
 		<td><a href="http://www.deeplearningbook.org/contents/regularization.html">DL Ch 7.12</a>, <a href="http://www.deeplearningbook.org/contents/convnets.html">Ch 9</a>, <a href="https://keras.io/">keras docs</a>, <a href="http://cs231n.github.io/">Stanford CNN course notes, Module 2</a>, <a href="https://distill.pub/2017/feature-visualization/">Feature Visualization</a></td>
-		<td>HW 4 due,  HW 5 posted</td>
+		<td>HW 4 due,  <a href="https://github.com/amueller/COMS4995-s20/raw/master/homework/homework5-aml-2020.pdf">HW 5 posted</a></td>
 	</tr>
 	<tr>
 		<td>20</td>
 		<td>Mon 04/27/20</td>
-		<td><a href="#">Advanced Neural Networks</a>
-		<a href="#"><i class="fas fa-comment-dots"></i></a>
-		<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-20-advanced-nets#">Advanced Neural Networks</a>
+		<a href="https://amueller.github.io/COMS4995-s20/slides/aml-20-advanced-nets#p1"><i class="fas fa-comment-dots"></i></a>
+		<a href="https://youtu.be/2FNmbX901r0#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
 		</td>
 		<td></td>
 		<td><br></td>
@@ -266,8 +266,9 @@ Press P on slides for presenter notes (or add #p1 to the url if you're on mobile
 	<tr>
 		<td>21</td>
 		<td>Wed 04/29/20</td>
-		<td><a href="#">Time series data</a><a href="#"><i class="fas fa-comment-dots"></i></a>
-		 &nbsp;<a href="#"><i class="fab fa-youtube" aria-hidden="true"></i></a>
+		<td><a href="https://amueller.github.io/COMS4995-s20/slides/aml-21-time-series#">Time series data</a>
+         <a href="https://amueller.github.io/COMS4995-s20/slides/aml-21-time-series#p1"><i class="fas fa-comment-dots"></i></a>
+		 &nbsp;<a href="https://youtu.be/GVGEnaJsuu8"><i class="fab fa-youtube" aria-hidden="true"></i></a>
 		</td>
 		<td></td>
 		<td>HW 5 due</td>
